@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"1c933ced57e8e09c","type":"text","text":"## lightScapeOutliner\n1. 未开始 - 对齐功能\n\n\n#### 问题讨论\n1. 工具如何到面板\n2. Outliner与Mask 的优先级","x":-400,"y":1060,"width":640,"height":310},
+		{"id":"38a965a52a4d9708","type":"text","text":"## lightScapeMask\n1. 功能验证\n2. 参考Next Mask工具\n3. https://nextpcg.notion.site/NextPCG-Mask-510c87ea1ce14c1b84a4b95595b6ed1d\n4. 设计对齐 ","x":-400,"y":580,"width":640,"height":440},
+		{"id":"0b82613b30a22c9e","type":"text","text":"## lightScapeSpline\n1. 基础功能已开发完\n2. 文档补充\n3. 等待验证 - 道路\n\n\n\n\n\n### Bug\n1. Compile 蓝图，连接关系丢失","x":-400,"y":-200,"width":640,"height":740},
+		{"id":"fdc527471c034cac","type":"text","text":"## USD Bug排查\n#### Output回读 \n 1. 蓝图错误 - 蓝图模板吧**【待验证】**\n\t 1. set up output bridge, 要不要统一连接 input bridge\n 2. 其他各种情况Output回读问题\n#### 最近bug\n1. replace actor component \n2. 多output时，地形多次写入问题 【远端还有问题】 ifyu\n3. set up output bridge, 要不要统一连接 input bridge\n\n### bug\n1. Instance 第二次Cook 才会成功","x":280,"y":580,"width":780,"height":440},
+		{"id":"193db481d17dec94","type":"text","text":"## USD HDA参数方案\n1. 开发任务重【预计三个月】，优先级低","x":280,"y":1060,"width":780,"height":310},
+		{"id":"def91bd6f72cafa7","type":"text","text":"## USD 功能\n#### 流程\n2. 问题 Replace Last Output Actor，避免统一关卡内多个同种HDA工具replace Output，避免多个关卡重复回写一个Mesh，导致Mesh资产被覆盖问题\n\t1. Replace Last output actor  [OR]  offset  root componet - > staticmeshcomponent  【root component居中】 【云龙 & 果哥】\n\t2. 关卡名字  【云龙 & 果哥】\n3. HDA制作标准   **[待验证]**\n\t1. 标准化输出路径 PackagePath    \n\t\t1. ProjectSetting设置 Game/PCGGen/{LevelName}/Mesh/ElementName    \n\t2. HDA配置标准，在参数面板完成后在做 【优先级低】\n#### 新特性\n1. Volume 合入  【云龙 & 果哥】\n2. 结构体数组，在分支迭代，先不合入Master版本  【云龙 & 果哥】\n\n#### 问题讨论\n1. 统一场景内 是否支持多地形操作    -     可以解决多地形融合\n2. 接入LightscapeMask  本质上是一个RT + 笔刷范围？","x":280,"y":-200,"width":780,"height":740},
+		{"id":"c24eac071dc87769","type":"text","text":"## USD Bug排查\n#### Output回读 \n 1. 蓝图错误 - 蓝图模板吧**【待验证】**\n\t 1. set up output bridge, 要不要统一连接 input bridge\n 2. 其他各种情况Output回读问题\n#### 最近bug\n1. replace actor component \n2. 多output时，地形多次写入问题 【远端还有问题】 ifyu\n3. set up output bridge, 要不要统一连接 input bridge","x":1620,"y":580,"width":780,"height":440},
+		{"id":"83b4893b0294b06c","type":"text","text":"\n### lightScapeSpline\n1. Compile 蓝图，连接关系丢失  - lightscape\n\n### USD\n1. [x] 200 条曲线 传递 8-9s  -  usd\n2. [ ] Instance 第二次Cook 才会成功  - usd\n\n### 测试\n1. [ ] 标准化输出路径 PackagePath    \n2. [ ] 蓝图错误 - 蓝图模板吧**【待验证】**\n\n### lightScapeMask\n1. [ ] 先做普通mask绘制功能，并接入UE PCG\n\n","x":-1340,"y":-200,"width":640,"height":740},
+		{"id":"6b89a7cfea67069c","type":"file","file":"光子pcg流程/周会记录/0826.md","x":-1420,"y":720,"width":820,"height":1680}
+	],
+	"edges":[]
+}
