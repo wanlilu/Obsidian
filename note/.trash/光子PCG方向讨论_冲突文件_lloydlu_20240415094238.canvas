@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b8f14d4314e81123","type":"group","x":-1480,"y":-20,"width":1720,"height":1302,"label":"光子PCG目标"},
+		{"id":"503b37ceb41aed84","type":"group","x":260,"y":-20,"width":688,"height":1302,"label":"可完善的内容"},
+		{"id":"71f943218078432c","type":"group","x":-1440,"y":320,"width":800,"height":942,"label":"工具及定位"},
+		{"id":"c2b2b5ff2e1001e9","type":"group","x":-560,"y":320,"width":748,"height":942,"label":"用户触达"},
+		{"id":"b5054f0312af6793","type":"text","text":"#### 目的\n1. 实现PCG对项目场景制作、资产生成等美术制作效率的提升。\n2. 增强场景设计制作流程的把控 ： 服务LD、LA的场景搭建，有一定的同步两边思路的作用。\n3. 服务更多的项目，有不受短期项目影响整体节奏。","x":-1440,"y":40,"width":1628,"height":180},
+		{"id":"f753d76bcda51163","type":"text","text":"#### OfflinePCG\n1. 目标定位\n\t1. 媲美专业的地形工具，可实时调整地形、地势方便还原写实地貌\n\t2. 方便与其他工具结合使用，如建筑输出mask影响地形","x":-1400,"y":360,"width":700,"height":200},
+		{"id":"60a20ddbe83b36f9","type":"file","file":"default/_resources/image/diary/Pasted image 20240408141237.png","x":-1860,"y":360,"width":360,"height":183},
+		{"id":"2678190c60611ca7","type":"text","text":"#### UE PCG\n1. 植被、河流、土路 https://github.com/freetimecoder/unreal-pcg-examples\n\t1. ![[Pasted image 20240407190000.png]]\n\t2. 拓展UE PCG \n\t\t1. https://nebukam.github.io/PCGExtendedToolkit/\n\t\t2. USD Houdini Connector\n\t\t3. 支持读取、写入Editor Layer\n2. UE PCG 与USD结合需求初筛选：建模？\n3. 资产批处理工具是否需要？比如生成LOD等 ","x":280,"y":600,"width":648,"height":662},
+		{"id":"2157c8e1f94427f2","type":"text","text":"#### OfflinePCG\n1. 问题及可优化点：\n\t1. 面板\n\t\t1. 参数面板\n\t\t2. 精简美术面板（参数绑定）\n\t2. 曲线控制器\n\t\t1. 适配复杂道路\n\t\t2. 控制器面板优化\n\t\t3. 自定义控制器，方便操作\n2. 等待开发：\n\t1. GPU工具\n\t\t1. mask/weightmap 控制调整\n\t\t\t1. blur ，smooth，sub。。。\n\t\t2. Filters\n\t\t3. MeshProjection，Path，TextureProjection\n\t","x":280,"y":3,"width":648,"height":557},
+		{"id":"719830292766459d","type":"text","text":"#### 开发方向及模块优先级 （最高优先级需要出具体研究列表）\n\n\t","x":1000,"y":-20,"width":720,"height":1302},
+		{"id":"674743a4fb899b73","type":"text","text":"#### 用户协作关系\n1. 强链接项目：\n\t1. 公司重点项目，ES、OG2、PGame\n\t2. 大量定制化工具，工具复杂高\n\t3. 定制流程，如PGame跨引擎，OG2城市多人协作\n2. 弱链接项目：\n\t1. 实验性项目，或轻量项目需要某个工具\n\t2. vision pro 海岛项目，制作野外地形，要求底\n\t3. 只需要单独使用某个工具，如LOD批量制作、瀑布工具","x":-520,"y":360,"width":680,"height":367},
+		{"id":"85a7de61846d55fd","type":"text","text":"#### Houdini 工具\n1. 目标定位\n\t1. 保底工具方案\n\t2. 道路、建筑等复杂工具模块的工具链条\n\t3. 快速满足项目定制化需求","x":-1400,"y":634,"width":700,"height":227},
+		{"id":"648e88e52da2d49e","type":"text","text":"#### UE PCG\n1. 目标定位\n\t1.  instance类别工具\n\t2.  很方便引入官方、及其他开发者的UE生成工具\n\t3. 结合scriptable tool 方便拓展交互模式\n\t","x":-1400,"y":940,"width":700,"height":257},
+		{"id":"79780a98c311d6fa","type":"text","text":"#### 推广方法\n1. 与项目负责人推广\n\t1. 需要做项目时候Demo及简明教程（参考 world creator）\n\t2. 阶段宣传\n2. 企微机器人推广\n\t1. 方便通过企微机器人下载简明工具体验，如GPU地形，weightmap生成、uepcg植被生成，5步、20分钟，快速创建野外场景","x":-520,"y":783,"width":680,"height":297}
+	],
+	"edges":[]
+}

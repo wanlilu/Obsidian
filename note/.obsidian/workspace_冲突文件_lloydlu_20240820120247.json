@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "59803afa86caad5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d999ef7078429b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "674ace98fdeeb59e",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "266eb6e238549ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "default/Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b20db6accfbf5866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/光子pcg流程/LightScape/LightScape.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9ef8b6f11fed2c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e9122828071202",
+        "type": "tabs",
+        "dimension": 61.76024279210926,
+        "children": [
+          {
+            "id": "d4aec53a11e57b81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "2f40a040fdf14ac6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ff724f371b65ba0",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ef78bbce91b528ef",
+        "type": "tabs",
+        "dimension": 38.23975720789075,
+        "children": [
+          {
+            "id": "6954fa94297e2225",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365
+  },
+  "right": {
+    "id": "2954d7cf277c2f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d1467cc9f36fa28",
+        "type": "tabs",
+        "dimension": 63.262307127112415,
+        "children": [
+          {
+            "id": "455bc71d0b53cbac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "dd5001faf6a61b8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作/光子pcg流程/LightScape/LightScape.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfd40bcb68203320",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "工作/光子pcg流程/LightScape/LightScape.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55089fc807c662ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工作/光子pcg流程/LightScape/LightScape.md"
+              }
+            }
+          },
+          {
+            "id": "294337cef637b494",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "91fc2ad3a4233d85",
+        "type": "tabs",
+        "dimension": 36.737692872887585,
+        "children": [
+          {
+            "id": "2517aafd76df914f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "custom-sort:Toggle custom sorting": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "homepage:Open homepage": false,
+      "obsidian-memos:Thino": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "b20db6accfbf5866",
+  "lastOpenFiles": [
+    "工作/光子pcg流程/LightScape/LightScape.md.baiduyun.uploading.cfg",
+    "工作/光子pcg流程/项目/OG2项目工具.md",
+    "default/Home.md",
+    "工作/光子pcg流程/LightScape/LightScape.md",
+    "工作/光子pcg流程/LightScape/Light.md.baiduyun.uploading.cfg",
+    "工作/Falcon工作/tk/公路风格道路构建方案/index.md",
+    "工作/Falcon工作/tk/公路风格道路构建方案/assets/1704698750-d56c24c81b5e5f02b023f9382e1ca21d.svg",
+    "工作/Falcon工作/tk/公路风格道路构建方案/assets/1704698750-fd7976f7b401fb858c859dda738b7af1.png",
+    "工作/Falcon工作/tk/地图地形地势自适应道路/index.md",
+    "工作/Falcon工作/tk/地图地形地势自适应道路/assets/1704699112-4ad5333091e94a19187f63d6a488a2c4.png",
+    "工作/光子pcg流程/LightScape/PCG方向讨论.canvas",
+    "工作/光子pcg流程/Light.md.baiduyun.uploading.cfg",
+    "工作/光子pcg流程/LightScape",
+    "工作/光子pcg流程/未命名.md.baiduyun.uploading.cfg",
+    "工作/光子pcg流程/OfflinePCG/光子PCGTA组.md",
+    "工作/光子pcg流程/项目",
+    "工作/光子pcg流程/OfflinePCG/光子PCG方向会议.md",
+    "工作/光子pcg流程/OfflinePCG/OfflinePCG.md",
+    "工作/光子pcg流程/OfflinePCG",
+    "工作/Falcon工作/FalconComponentiwiki/地形塑造Filters/assets/1704813846-48f34ae457aeafc603ab0a403f103594.svg",
+    "工作/Falcon工作/FalconComponentiwiki/地形塑造Filters/assets/1704813846-58e5fa504b5449b7a89a07130def4d77.png",
+    "工作/Falcon工作/FalconComponentiwiki/地形塑造Filters/assets/1704813846-d56c24c81b5e5f02b023f9382e1ca21d.svg",
+    "工作/PGame 任务管理/PGame任务管理.md",
+    "工具/Obsidian.md",
+    "工作/蓝图笔刷.md",
+    "工作/崖壁工具/石头工具.md",
+    "default/diary/2024-04-01.md",
+    "default/diary/2024-04-09.md",
+    "default/diary/2024-04-19.md",
+    "default/diary/2024-08-19.md",
+    "default/diary/2024-08-19.md.baiduyun.uploading.cfg",
+    "202408191026.md",
+    "202408191026.md.baiduyun.uploading.cfg",
+    "Untitled Kanban.md",
+    "Untitled Kanban.md.baiduyun.uploading.cfg",
+    "Excalidraw/Drawing 2024-08-19 10.25.10.excalidraw.md",
+    "工作/Falcon工作/Falcon/bat文件参考.md",
+    "工作/崖壁工具/崖壁工具看板.canvas",
+    "default/_resources/image/testImagePath/4275435166af2325804d5fc7ecacf8a9_MD5.jpeg",
+    "default/diary/2024-04-19_冲突文件_lloydlu_20240419113213.md",
+    "default/diary/delete.md",
+    "default/diary/2024-04-07.md",
+    "default/diary/delete_冲突文件_lloydlu_20240415094238.md",
+    "default/diary/2024-04-03.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "default/_resources/image/diary/Pasted image 20231204162327.png",
+    "default/_resources/image/diary/Pasted image 20240612153026.png",
+    "个人/Matrix.canvas",
+    "光子PCG方向讨论.canvas",
+    "光子PCG方向讨论_冲突文件_lloydlu_20240415094238.canvas",
+    "default/_resources/image/diary/Pasted image 20240502104203.png",
+    "工具/未命名.canvas"
+  ]
+}

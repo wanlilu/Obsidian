@@ -1,0 +1,314 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "会议.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2b22736ac15a595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "default/Home/Idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d709d4e8ae61d397",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8ccd3c74d9010c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "会议.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9ef8b6f11fed2c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e9122828071202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4aec53a11e57b81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f40a040fdf14ac6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "2954d7cf277c2f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d1467cc9f36fa28",
+        "type": "tabs",
+        "dimension": 50.38265306122449,
+        "children": [
+          {
+            "id": "455bc71d0b53cbac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd5001faf6a61b8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "default/Home/Idea.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dfd40bcb68203320",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "default/Home/Idea.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55089fc807c662ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "default/Home/Idea.md"
+              }
+            }
+          },
+          {
+            "id": "294337cef637b494",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "63f00393452e1d0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "default/Home/Idea.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "91fc2ad3a4233d85",
+        "type": "tabs",
+        "dimension": 49.61734693877551,
+        "children": [
+          {
+            "id": "2517aafd76df914f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "custom-sort:Toggle custom sorting": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "obsidian-memos:Thino": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "floating": {
+    "id": "62fc52c11af2732a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c420ab7be52ca351",
+        "type": "window",
+        "children": [
+          {
+            "id": "10b46971d89885a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e9c0194caaf8b9b",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 197,
+        "width": 1469,
+        "height": 1195,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f2b22736ac15a595",
+  "lastOpenFiles": [
+    "default/Home/Home.md",
+    "default/Home/教程网站.md",
+    "default/Home/导航.md",
+    "会议.md",
+    "rs-test-folder-MHJFO2jmEj2Ukn2ChyxyC",
+    "rs-test-folder-doVcCzzQfRajhLXg8vI51",
+    "rs-test-folder--agU-oYsdOV6CAABNxLed",
+    "rs-test-folder-3gAA0xBTz6OfgfCJ4lH-q",
+    "个人/目标/客户关系.md",
+    "rs-test-folder-sTh206X7LcQd-VOujRl-9/rs-test-file-pFDtidf7QfxWBDQ_8z3V6",
+    "rs-test-folder-sTh206X7LcQd-VOujRl-9",
+    "个人/目标/技术能力.md",
+    "项目服务/PGame任务管理.md",
+    "会议.md.baiduyun.uploading.cfg",
+    "未命名.md",
+    "default/diary/2024-11-22.md.baiduyun.uploading.cfg",
+    "default/diary/2024-11-22.md",
+    "会议_冲突文件_lloydlu_20241122144239.md.baiduyun.uploading.cfg",
+    "会议.md.baiduyun.p.downloading",
+    "会议_冲突文件_lloydlu_20241122144239.md",
+    "default/Home/iWiki.md",
+    "光子pcg流程/OfflinePCG/光子PCG方向会议.md",
+    "项目服务/OG2项目工具.md",
+    "光子pcg流程/周会记录/0826周会.canvas",
+    "光子pcg流程/周会记录/0826.md",
+    "光子pcg流程/周会记录/0907.md",
+    "光子pcg流程/周会记录/0918.md",
+    "光子pcg流程/周会记录/0926.md",
+    "光子pcg流程/周会记录/0926汇报内容.md",
+    "光子pcg流程/周会记录/0819.md",
+    "光子pcg流程/周会记录/0823.md",
+    "个人/软件学习/Houdini Solaris.md",
+    "个人/软件学习/Blender 学习.md",
+    "个人/目标/宣传.md",
+    "个人/目标/向下管理.md",
+    "个人/目标/向上管理.md",
+    "光子pcg流程/2024下开发规划.md",
+    "光子pcg流程/PCG方向讨论.canvas",
+    "Excalidraw/_DataAsset/Pasted Image 20241016171511_682.png",
+    "Excalidraw/_DataAsset/Pasted Image 20241016171447_449.png",
+    "Excalidraw/_DataAsset/Pasted Image 20241016171421_831.png",
+    "default/Thino.thino.canvas",
+    "个人/_DataAsset/Pasted image 20241011102228.png",
+    "个人/_DataAsset/Pasted image 20241011102313.png",
+    "个人/_DataAsset/Pasted image 20241011102335.png",
+    "个人/目标.canvas",
+    "个人/未命名.canvas",
+    "个人/Matrix.canvas",
+    "default.thino.canvas",
+    "光子pcg流程/周会记录/_DataAsset/Pasted image 20240924153546.png",
+    "Falcon工作/tk/手工层高度Mask和权重Mask分离的手工层升级指导/assets/1704699190-9f4cd0f6e85ec606e6c5aace7743ed15.png",
+    "Falcon工作/tk/手工层高度Mask和权重Mask分离的手工层升级指导/assets/1704699190-58e5fa504b5449b7a89a07130def4d77.png",
+    "Falcon工作/tk/手工层高度Mask和权重Mask分离的手工层升级指导/assets/1704699190-d56c24c81b5e5f02b023f9382e1ca21d.svg",
+    "未命名.canvas",
+    "工作/崖壁工具/崖壁工具看板.canvas",
+    "工作/光子pcg流程/LightScape/LightScape开发周记/082.canvas"
+  ]
+}

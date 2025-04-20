@@ -1,0 +1,51 @@
+{
+  "buttons:inline-button": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "buttons:button-maker": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "keyboard-analyzer:show-shortcuts-analyzer-view": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "cmdr:macro-0": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "cmdr:macro-1": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "editor:save-file": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F8"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ]
+}

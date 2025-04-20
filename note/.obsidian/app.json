@@ -1,0 +1,24 @@
+{
+  "attachmentFolderPath": "./_DataAsset",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "vimMode": false,
+  "propertiesInDocument": "hidden",
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "showInlineTitle": true,
+  "foldHeading": false,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "showIndentGuide": true,
+  "rightToLeft": false
+}

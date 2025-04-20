@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1698302289174,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1698302660350,
+          "items": [],
+          "title": "个人"
+        },
+        {
+          "type": "group",
+          "ctime": 1698302660350,
+          "items": [],
+          "title": "default"
+        }
+      ],
+      "title": "sortspec"
+    },
+    {
+      "type": "group",
+      "ctime": 1727163919548,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1727164041950,
+          "path": "光子pcg流程/Demo/Demo - SideFx.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1727164050720,
+          "path": "光子pcg流程/周会记录/0926汇报内容.md"
+        }
+      ],
+      "title": "重要"
+    },
+    {
+      "type": "url",
+      "ctime": 1738906622456,
+      "url": "https://chat.deepseek.com/",
+      "title": "DeepSeek - 探索未至之境"
+    },
+    {
+      "type": "url",
+      "ctime": 1738906668153,
+      "url": "https://www.youtube.com/",
+      "title": "YouTube"
+    },
+    {
+      "type": "url",
+      "ctime": 1738906699384,
+      "url": "https://www.google.com/",
+      "title": "Google"
+    }
+  ]
+}

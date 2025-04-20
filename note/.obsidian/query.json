@@ -1,0 +1,22 @@
+{
+  "queries": [
+    {
+      "createdAt": "2024/10/09 15:51:30",
+      "id": "202410091551302",
+      "pinnedAt": "",
+      "querystring": "[{\"type\":\"TAG\",\"value\":{\"operator\":\"CONTAIN\",\"value\":\"TODO\"},\"relation\":\"AND\"},{\"type\":\"TIME_RANGE\",\"value\":{\"operator\":\"WITHIN\",\"value\":\"30d\"},\"relation\":\"AND\"},{\"type\":\"LIST\",\"value\":{\"operator\":\"IS\",\"value\":\"TODO\"},\"relation\":\"AND\"}]",
+      "title": "最近待做",
+      "updatedAt": "2024/10/09 15:51:30",
+      "userId": "Thino"
+    },
+    {
+      "createdAt": "2024/10/09 15:54:05",
+      "id": "202410091554051",
+      "pinnedAt": "",
+      "querystring": "[{\"type\":\"TIME_RANGE\",\"value\":{\"operator\":\"WITHIN\",\"value\":\"30d\"},\"relation\":\"AND\"},{\"type\":\"TAG\",\"value\":{\"operator\":\"CONTAIN\",\"value\":\"TODO\"},\"relation\":\"AND\"},{\"type\":\"LIST\",\"value\":{\"operator\":\"IS\",\"value\":\"DONE\"},\"relation\":\"AND\"}]",
+      "title": "最近完成",
+      "updatedAt": "2024/10/09 15:54:05",
+      "userId": "Thino"
+    }
+  ]
+}

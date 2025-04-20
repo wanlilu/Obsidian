@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "91a3a0d117532ec1",
+    "type": "split",
+    "children": [
+      {
+        "id": "edc65a4ec9ddc236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f649eb84d78b108d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "个人/_DataAsset/Pasted image 20241011102313.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241011102313"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63fd88c0fea5c7fd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4274992a39da6003",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b515b698385b7422",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0db1ecc11770de5b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c9a1c90e5c8470d8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "adf9cb5064c8b062",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c9c452766c0c9995",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "个人/_DataAsset/Pasted image 20241011102313.png",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "df3b3c14c626cab6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "0dcf171befadc13a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "f649eb84d78b108d",
+  "lastOpenFiles": [
+    "Falcon工作/tk/工具开发通用规则or标准/index.md",
+    "Falcon工作/tk/植被撒点效果生成逻辑汇总/index.md",
+    "Falcon工作/tk/POI LALD使用流程/index.md",
+    "Falcon工作/tk/荒野地区地形地貌程序化生成/index.md",
+    "Falcon工作/tk/植被撒点效果生成逻辑汇总/index.json",
+    "Falcon工作/tk/工具开发通用规则or标准/index.json",
+    "Falcon工作/tk/荒野地区地形地貌程序化生成/index.json",
+    "Falcon工作/tk/POI LALD使用流程/index.json",
+    "default/_resources/image/diary/Mask.png",
+    "Falcon工作/tk/Breakout 地图PCG制作思路/index.md",
+    "Falcon工作/tk/Breakout 地形权重处理逻辑汇总/index.md",
+    "default/_resources/image/diary/Grass.png",
+    "个人/_DataAsset/Pasted image 20241011102335.png",
+    "个人/_DataAsset/Pasted image 20241011102313.png",
+    "Falcon工作/tk/河流生成方案/a-title_Breakout-河流生成方案",
+    "Falcon工作/tk/Breakout 地图PCG制作思路/index.json",
+    "default/_resources/image/diary/Mask 1.png",
+    "default/_resources/image/diary/Grass 1.png",
+    "Falcon工作/FalconComponentiwiki/Path/index.md",
+    "Falcon工作/tk/Breakout 地形权重处理逻辑汇总/index.json",
+    "Falcon工作/FalconComponentiwiki/Ring/index.md",
+    "default/_resources/image/diary/heightmap.png",
+    "个人/_DataAsset/Pasted image 20241011102228.png",
+    "Falcon工作/FalconComponentiwiki/Path/index.json",
+    "default/_resources/image/diary/heightmap 1.png",
+    "Falcon工作/FalconComponentiwiki/Ring/index.json",
+    "Falcon工作/tk/POI LALD使用流程/a-title_POI-LA-LD使用流程",
+    "Falcon工作/FalconComponentiwiki/音频建筑体积生成/index.md",
+    "Falcon工作/tk/手工层高度Mask和权重Mask分离的手工层升级指导/index.md",
+    "Falcon工作/falconiwiki/基于层和组件的程序化制作流程 - 腾讯iWiki.md",
+    "Falcon工作/FalconComponentiwiki/GaeaBridge/index.md",
+    "Falcon工作/FalconComponentiwiki/高度曲线 Curve/index.md",
+    "Falcon工作/FalconComponentiwiki/地形塑造Filters/index.md",
+    "Falcon工作/FalconComponentiwiki/色素生成 Pigment/index.md",
+    "Falcon工作/FalconComponentiwiki/Variant Mask/index.md",
+    "Falcon工作/falconiwiki/基于层和组件的程序化制作流程 - 腾讯iWiki (1).md",
+    "光子pcg流程/周会记录/_DataAsset/PixPin_2024-09-19_10-27-34.png",
+    "Falcon工作/FalconComponentiwiki/侵蚀模拟 Erosion(WM)/index.md",
+    "Falcon工作/falconiwiki/falcon/2024-01-08-1704696870/index.md",
+    "Falcon工作/falconiwiki/falcon/2024-01-08-1704696808/index.md",
+    "Falcon工作/FalconComponentiwiki/模型投影 Mesh Projection/index.md",
+    "Falcon工作/FalconComponentiwiki/模型投影V2 MeshProjectionII/index.md",
+    "Falcon工作/FalconComponentiwiki/Texture Projection 贴图投射/index.md"
+  ]
+}
