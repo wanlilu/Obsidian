@@ -3,11 +3,11 @@
 
 jcyan(严吉)
 
-创建，最后修改于2022-10-24
+创建，最后修改于2022-10-24·
 
-# Path
+# Path·
 
-![38.png#1000px](1704813318-de01146e71f4893df081008087d3d960.png)
+![38.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-de01146e71f4893df081008087d3d960.png)
 
 > 在UE编辑器中，使用Falcon曲线控制器修改地形，可创建类似道路/峡谷等地貌形态
 
@@ -18,7 +18,7 @@ jcyan(严吉)
 *   **Falcon** | **Stack** | **Layer**
     
 
-![01.png#1000px](1704813318-a133a37951b1b8c1fb15397df16593f6.png)
+![01.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-a133a37951b1b8c1fb15397df16593f6.png)
 
 *   **+Component** | **Landscape** | **Path**
     
@@ -52,12 +52,12 @@ jcyan(严吉)
 ## 起始控制点
 
 添加组件后，保持组件的选中状态，在地形上任意位置单击鼠标左键，即可创建曲线的起始控制点  
-![02.png#1000px](1704813318-68956c8a373bfb2791a2d893926b442e.png)
+![02.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-68956c8a373bfb2791a2d893926b442e.png)
 
 ## 增加控制点
 
 Ctrl + 鼠标左键单击，在地形中添加曲线控制点  
-![03.png#1000px](1704813318-57b1006c0adf2a1ce6dee9b741d66f13.png)
+![03.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-57b1006c0adf2a1ce6dee9b741d66f13.png)
 
 ## 曲线显示设置
 
@@ -66,7 +66,7 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 *   **Falcon** | **Manipulator**
     
 
-![04.png#1000px](1704813318-cb84e1969c0738d417599eab796bd05a.png)
+![04.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-cb84e1969c0738d417599eab796bd05a.png)
 
 选中曲线的任意控制点或线段，可设置：
 
@@ -82,13 +82,13 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 ## 高度
 
 选中控制点或者线段，通过改变垂直方向的高度，实现对地形高度的修改  
-![05.png#1000px](1704813318-ca09dafde7f6a28d8d63d0c97890bcc6.png)
+![05.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-ca09dafde7f6a28d8d63d0c97890bcc6.png)
 
 下压  
-![06.png#1000px](1704813318-84eb5d40d98878804fa4580322ca9465.png)
+![06.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-84eb5d40d98878804fa4580322ca9465.png)
 
 上抬  
-![07.png#1000px](1704813318-c3a481e0595fe818604e0b7f762fdde4.png)
+![07.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-c3a481e0595fe818604e0b7f762fdde4.png)
 
 ## 宽度/侧向渐变
 
@@ -118,7 +118,7 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 *   **Side Falloff**: 1200
     
 
-![09.png#1000px](1704813318-af9bee99d32c3e5ae46cc229511ff718.png)
+![09.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-af9bee99d32c3e5ae46cc229511ff718.png)
 
 ### 独立设置
 
@@ -133,10 +133,10 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 ![10.png#400px](1704813318-c44335aab508b6b1fc56519733c10497)
 
 曲线控制点会显示箭头形状的操纵杆  
-![11.png#1000px](1704813318-3f9bbbe5ae552031e5f61a3245a635a1.png)
+![11.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-3f9bbbe5ae552031e5f61a3245a635a1.png)
 
 选中属性操纵杆，拖动位置以设置路边宽度或侧向渐变  
-![12.png#1000px](1704813318-7e2569e979dfdddbec630c6778257ef6.png)
+![12.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-7e2569e979dfdddbec630c6778257ef6.png)
 
 设置完毕后，点击属性名称左边的圆点，可以隐藏属性操纵杆
 
@@ -163,7 +163,7 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 *   **End Falloff**：2000
     
 
-![28.png#1000px](1704813318-83ecfe1d0ddd4ce51ed230e3c93c627e.png)
+![28.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-83ecfe1d0ddd4ce51ed230e3c93c627e.png)
 
 ## 侧向渐变曲线
 
@@ -177,10 +177,10 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 ![29.png#400px](1704813318-5567d353397319a1deb893ba38a54080)
 
 鼠标左键双击曲线面板，可以开启独立的曲线编辑窗口  
-![34.png#400px](1704813318-5d794abab4dda2adf5fc0697b5776f13.png)
+![34.png#400px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-5d794abab4dda2adf5fc0697b5776f13.png)
 
 曲线编辑窗口操作：  
-![35.png#400px](1704813318-34bc63774f7732eead1a0020d677bbb7.png)
+![35.png#400px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-34bc63774f7732eead1a0020d677bbb7.png)
 
 *   Shift + 鼠标左键单击：添加Key
     
@@ -191,13 +191,13 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 
 ### 示例
 
-![30.png#1000px](1704813318-80ff3a0bd069a699e06b99dcd18b8939.png)
+![30.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-80ff3a0bd069a699e06b99dcd18b8939.png)
 
-![31.png#1000px](1704813318-133cde6cc57ba8d44d58262221ae84a3.png)
+![31.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-133cde6cc57ba8d44d58262221ae84a3.png)
 
-![32.png#1000px](1704813318-c4397089466f248e983829bedbd08d1c.png)
+![32.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-c4397089466f248e983829bedbd08d1c.png)
 
-![33.png#1000px](1704813318-00b9674250f3179f2bacaab70d3f1929.png)
+![33.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-00b9674250f3179f2bacaab70d3f1929.png)
 
 # 遮罩（Mask）控制
 
@@ -212,13 +212,13 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
     *   **Add Parameter** | **Add PathFilter as Custom**
         
 
-![13.png#400px](1704813318-fd25e4d47ee62120a49f5b5e74789dcf.png)
+![13.png#400px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-fd25e4d47ee62120a49f5b5e74789dcf.png)
 
 设置权重范围  
 ![14.png#400px](1704813318-5586524ade9b0fdd0d6bbdae217d0238)
 
 示例  
-![15.png#1000px](1704813318-90ef5daee4ee6bb5fff097d334cace1f.png)
+![15.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-90ef5daee4ee6bb5fff097d334cace1f.png)
 
 ## 遮罩宽度
 
@@ -238,14 +238,14 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 *   **Mask Offset**：400
     
 
-![17.png#1000px](1704813318-187f500f0bf129eccb2806dec3c8a8e9.png)
+![17.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-187f500f0bf129eccb2806dec3c8a8e9.png)
 
 负值表示内缩
 
 *   **Mask Offset**：-400
     
 
-![18.png#1000px](1704813318-4006c32164a53b9a97e041b8b9976227.png)
+![18.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-4006c32164a53b9a97e041b8b9976227.png)
 
 ## 遮罩渐变
 
@@ -267,7 +267,7 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 *   **Mask Falloff**：2000
     
 
-![20.png#1000px](1704813318-f3f176358721e10fece0c38ed5d94872.png)
+![20.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-f3f176358721e10fece0c38ed5d94872.png)
 
 # 边缘噪声（Noise）
 
@@ -301,7 +301,7 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 *   **Global Noise Shift**：10
     
 
-![22.png#1000px](1704813318-0d2424c6ca907f27cb843fe15bd84c42.png)
+![22.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-0d2424c6ca907f27cb843fe15bd84c42.png)
 
 ## 遮罩独立设置
 
@@ -333,7 +333,7 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 *   **Global Noise Weight**：1
     
 
-![24.png#1000px](1704813318-824f6f39df6ca38f9725d2e81003d7ad.png)  
+![24.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-824f6f39df6ca38f9725d2e81003d7ad.png)  
 
 ### 全局Noise的权重
 
@@ -347,7 +347,7 @@ Ctrl + 鼠标左键单击，在地形中添加曲线控制点
 #### 示例
 
 若权重为0，表示遮罩不受全局noise的影响，以下图为例，路面边缘存在扰动，而遮罩为平滑曲线  
-![25.png#1000px](1704813318-d3e586371496f89730fa832865722389.png)
+![25.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-d3e586371496f89730fa832865722389.png)
 
 # 自定义输出Mask
 
@@ -424,7 +424,7 @@ ExportRainSpotMask.mp4#1000px
 *   点击视口中的曲线，组件面板会选中对应Path组件，并切换至对应的Layer
     
 
-![28.png#1000px](1704813318-83ecfe1d0ddd4ce51ed230e3c93c627e.png)
+![28.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-83ecfe1d0ddd4ce51ed230e3c93c627e.png)
 
 注意：**双向关联的特性只有在当前为Stack面板时方可生效**，即上图方框中的按钮
 
@@ -432,7 +432,7 @@ ExportRainSpotMask.mp4#1000px
 
 必要时可以隐藏当前场景中的曲线，提升编辑器效率
 
-![tapd_20422138_1663673437_27.png#1000px](1704813318-3be6be8c337c9caf41e9d6f0e8c32f0f.png)
+![tapd_20422138_1663673437_27.png#1000px](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-3be6be8c337c9caf41e9d6f0e8c32f0f.png)
 
 # 实验特性
 
@@ -472,17 +472,17 @@ ExportRainSpotMask.mp4#1000px
 
 如何为Path生成独立的Mask？
 
-*   ![](1704813318-48f34ae457aeafc603ab0a403f103594.svg)639
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-48f34ae457aeafc603ab0a403f103594.svg)639
     
-*   ![](1704813318-0b95f0082c86623bb3ccf41eddc04c8b.png)64
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-0b95f0082c86623bb3ccf41eddc04c8b.png)64
     
-*   ![](1704813318-fd7976f7b401fb858c859dda738b7af1.png)0
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-fd7976f7b401fb858c859dda738b7af1.png)0
     
 
-![](1704813318-58e5fa504b5449b7a89a07130def4d77.png)添加标签
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-58e5fa504b5449b7a89a07130def4d77.png)添加标签
 
-![](1704813318-325ac912a48e528af8ab64d72cca36b5.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-325ac912a48e528af8ab64d72cca36b5.svg)
 
 发表评论，抢沙发...
 
-![](1704813318-d56c24c81b5e5f02b023f9382e1ca21d.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813318-d56c24c81b5e5f02b023f9382e1ca21d.svg)
