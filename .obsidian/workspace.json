@@ -176,9 +176,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "34ee292d0451413d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "91fc2ad3a4233d85",
@@ -210,8 +220,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Open Copilot Chat": false,
-      "obsidian-kanban:创建新看板": false,
       "graph:查看关系图谱": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
@@ -220,10 +228,13 @@
       "command-palette:打开命令面板": false,
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-memos:Thino": false,
+      "homepage:Open homepage": false,
       "custom-sort:Toggle custom sorting": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
-      "obsidian-memos:Thino": false,
-      "homepage:Open homepage": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d4aec53a11e57b81",
