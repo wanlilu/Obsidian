@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "e050337a04f17179",
+            "id": "63bcdc913d6e079a",
             "type": "leaf",
             "state": {
               "type": "thino_view",
@@ -30,9 +30,23 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "f56882685d297664",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "default/Home/Home.md",
+                "bFile": "default/Home/Home.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Home"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,10 +251,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4aec53a11e57b81",
+  "active": "f56882685d297664",
   "lastOpenFiles": [
-    "项目服务/PGame任务管理.md",
     "default/Home/Home.md",
+    "项目服务/PGame任务管理.md",
     "光子pcg流程/周会记录/2025年LightCraft目标.md",
     "光子pcg流程/产品/工具架开发.md",
     "textgenerator/templates/trash/default/rewrite.md",
