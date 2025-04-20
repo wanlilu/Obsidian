@@ -1,0 +1,31 @@
+{
+  "showStatusBarItem": true,
+  "filterSettings": {
+    "FeaturedFirst": true,
+    "StrictSearch": false,
+    "HighlightCustom": false,
+    "HighlightDuplicates": false,
+    "DisplayWOhotkeys": false,
+    "DisplayIDs": false
+  },
+  "featuredCommandIDs": [
+    "app:open-settings",
+    "keyboard-analyzer:show-shortcuts-analyzer-view",
+    "switcher:open",
+    "cmdr:macro-0",
+    "command-palette:open",
+    "global-search:open",
+    "editor:open-search",
+    "editor:insert-link",
+    "editor:toggle-italics",
+    "editor:toggle-bold",
+    "editor:open-search-replace",
+    "editor:toggle-checklist-status",
+    "editor:delete-paragraph",
+    "markdown:toggle-preview",
+    "markdown:add-metadata-property",
+    "workspace:close",
+    "app:toggle-left-sidebar",
+    "app:toggle-right-sidebar"
+  ]
+}

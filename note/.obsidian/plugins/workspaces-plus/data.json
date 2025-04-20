@@ -1,0 +1,34 @@
+{
+  "showInstructions": true,
+  "showDeletePrompt": true,
+  "saveOnSwitch": false,
+  "saveOnChange": false,
+  "workspaceSettings": false,
+  "systemDarkMode": false,
+  "globalSettings": {
+    "accentColor": "",
+    "cssTheme": "AnuPpuccin",
+    "enabledCssSnippets": [
+      "【AnuPpuccin】扩展的颜色方案"
+    ],
+    "theme": "obsidian",
+    "nativeMenus": false,
+    "translucency": false,
+    "interfaceFontFamily": "Microsoft YaHei UI",
+    "baseFontSize": 15,
+    "attachmentFolderPath": "default/_resources/image/diary",
+    "pdfExportSettings": {
+      "includeName": true,
+      "pageSize": "Letter",
+      "landscape": false,
+      "margin": "0",
+      "downscalePercent": 100
+    }
+  },
+  "activeWorkspaceDesktop": "obsidian工具使用",
+  "activeWorkspaceMobile": "",
+  "reloadLivePreview": false,
+  "workspaceSwitcherRibbon": false,
+  "modeSwitcherRibbon": false,
+  "replaceNativeRibbon": false
+}

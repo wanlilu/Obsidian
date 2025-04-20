@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"0ffbd67136f76229","type":"text","text":"短期  PCG组运营","x":-365,"y":-40,"width":250,"height":60},
+		{"id":"9bbd5bfad8edf0c9","type":"text","text":"外包团队运营","x":-20,"y":-40,"width":250,"height":60},
+		{"id":"9eb8aa7d82503ff6","type":"text","text":"总目标","x":-200,"y":-260,"width":250,"height":50},
+		{"id":"0f351b3da38e8be1","type":"text","text":"技术能力：场景制作能力、PCG特色能力、技术探索\n人际-向下管理\n人际-客户关系\n宣传\n人才招聘","x":-335,"y":170,"width":520,"height":190},
+		{"id":"6efb8aa0d5f15877","type":"file","file":"个人/目标/向上管理.md","x":-2440,"y":620,"width":920,"height":380},
+		{"id":"edba219454d7faea","type":"file","file":"个人/目标/向下管理.md","x":-626,"y":620,"width":582,"height":660},
+		{"id":"355176f5cf1b56a1","type":"file","file":"个人/目标/技术能力.md","x":-1300,"y":620,"width":620,"height":980},
+		{"id":"d0ad424b2ceaf6c7","type":"file","file":"个人/目标/客户关系.md","x":40,"y":620,"width":640,"height":900},
+		{"id":"358566449e906c11","x":800,"y":620,"width":552,"height":790,"type":"file","file":"个人/目标/宣传.md"},
+		{"id":"aacbc2e19e5503bf","type":"text","text":"人际-向上管理","x":-2150,"y":210,"width":340,"height":110},
+		{"id":"b039d3681b9f0694","x":-2440,"y":1160,"width":920,"height":360,"type":"text","text":"## 执行\n - 每周向京平汇报工作\n - 完成领导预想的问题\n"},
+		{"id":"35bd68af451d4e16","type":"text","text":"语言能力\n财务\n法律","x":1520,"y":170,"width":420,"height":190},
+		{"id":"37504eb414d84b9f","x":-1300,"y":1900,"width":620,"height":763,"type":"text","text":"\n#### 向上汇报\n- 单周小汇报、双周大汇报\n\t- 单周给JP\n\t- 双周给宝哥\n- 保证领导提到的所有点 要考虑到位，并有回信\n\n\n#### 工作\n- Demo制作\n- PCG工具的模块跟进及后续开发计划\n- 项目对接\n\t- 满足项目需求\n\t- 与项目人员搞好关系\n- 管理\n\t- 目标对齐\n\t- 积极性调动\n#### 英语提升\n - 每日中午提升语言能力"}
+	],
+	"edges":[
+		{"id":"3424e2973ed9249a","fromNode":"0ffbd67136f76229","fromSide":"top","toNode":"9eb8aa7d82503ff6","toSide":"bottom"},
+		{"id":"137fe413a54113cc","fromNode":"9bbd5bfad8edf0c9","fromSide":"top","toNode":"9eb8aa7d82503ff6","toSide":"bottom"},
+		{"id":"3ee26f00f2432cb6","fromNode":"aacbc2e19e5503bf","fromSide":"top","toNode":"0ffbd67136f76229","toSide":"bottom"},
+		{"id":"008b95f600372a0f","fromNode":"0f351b3da38e8be1","fromSide":"top","toNode":"0ffbd67136f76229","toSide":"bottom"},
+		{"id":"8a97f10ac889a886","fromNode":"35bd68af451d4e16","fromSide":"top","toNode":"9bbd5bfad8edf0c9","toSide":"bottom"},
+		{"id":"a82c1a93f239118b","fromNode":"0f351b3da38e8be1","fromSide":"top","toNode":"9bbd5bfad8edf0c9","toSide":"bottom"},
+		{"id":"1c3ca751b3eb6436","fromNode":"edba219454d7faea","fromSide":"top","toNode":"0f351b3da38e8be1","toSide":"bottom"},
+		{"id":"cfef5a35d2a017a2","fromNode":"6efb8aa0d5f15877","fromSide":"top","toNode":"aacbc2e19e5503bf","toSide":"bottom"},
+		{"id":"24f3e0a919fd659f","fromNode":"355176f5cf1b56a1","fromSide":"top","toNode":"0f351b3da38e8be1","toSide":"bottom"},
+		{"id":"18a5671fb44730ed","fromNode":"d0ad424b2ceaf6c7","fromSide":"top","toNode":"0f351b3da38e8be1","toSide":"bottom"},
+		{"id":"278d4701ce7936ed","fromNode":"358566449e906c11","fromSide":"top","toNode":"0f351b3da38e8be1","toSide":"bottom"},
+		{"id":"44739d3f6fe348ee","fromNode":"b039d3681b9f0694","fromSide":"top","toNode":"6efb8aa0d5f15877","toSide":"bottom"}
+	]
+}

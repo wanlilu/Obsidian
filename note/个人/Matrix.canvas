@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"9abf2541601037a7","type":"text","text":"city layout\n![[Pasted image 20231226171039.png]]\n\n得到数据 road lots sidewalk\n![[Pasted image 20231226171158.png]]\n","x":-1480,"y":-760,"width":890,"height":960},
+		{"id":"7bcf8ad34b8ed13a","type":"text","text":"![[Pasted image 20231226172641.png]]\n![[Pasted image 20231226172703.png]]\n\n![[Pasted image 20231226172757.png]]\n\n![[Pasted image 20231226172815.png]]\n\n![[Pasted image 20231226172839.png]]\n\n![[Pasted image 20231226172922.png]]\n\n![[Pasted image 20231226173048.png]]\n\n![[Pasted image 20231226173103.png]]","x":340,"y":480,"width":620,"height":1020},
+		{"id":"666371abffd0f85c","type":"text","text":"用了 模组 拼接\n![[Pasted image 20231226171609.png]]\n边缘形状为了更好的衔接， 有一定的起伏\n\n![[Pasted image 20231226171758.png]]\n\n![[Pasted image 20231226172217.png]]\n\n帮助视频 创作者规划路线\n![[Pasted image 20231226172305.png]]\n\n![[Pasted image 20231226172452.png]]\n\n![[Pasted image 20231226172504.png]]\n","x":340,"y":-1200,"width":570,"height":1220},
+		{"id":"28562b58ff3f40e4","type":"text","text":"  ![[Pasted image 20231226173214.png]]\n  ![[Pasted image 20231226173305.png]]\n  ![[Pasted image 20231226173323.png]]\n  ![[Pasted image 20231226173354.png]]\n\n![[Pasted image 20231226173506.png]]\n\n![[Pasted image 20231226173624.png]]\n\n![[Pasted image 20231226173641.png]]\n将没有描述的用地 再按类别分为：广场 ， 高速 ，停车，分别处理\n![[Pasted image 20231226173711.png]]\n\n预先做好 资产包blueprint ，scatter上去 \n![[Pasted image 20231226173917.png]]\n\n![[Pasted image 20231226173943.png]]\n\n![[Pasted image 20231226174040.png]]\n\n![[Pasted image 20231226174151.png]]\n\n![[Pasted image 20231226174209.png]]\n\n![[Pasted image 20231226174234.png]]\n![[Pasted image 20231226174339.png]]","x":1760,"y":480,"width":653,"height":776},
+		{"id":"679344ea5a57c1ce","type":"text","text":"![[Pasted image 20231227100412.png]]\n\n![[Pasted image 20231227100434.png]]\n没栋建筑都有tag，并且颜色是他的style\n![[Pasted image 20231227100616.png]]\n\n![[Pasted image 20231227101334.png]]\n\n![[Pasted image 20231227101825.png]]\n赋予 bdf的类型，并通过类型计算出 楼层间距，获取切片\n![[Pasted image 20231227101842.png]]\n通过点积获取拐点类型，并通过顺序获得序号  ，同时考虑 是否两个面要同时考虑，还有有优先级排序\n\n![[Pasted image 20231227102038.png]]\n\n![[Pasted image 20231227102510.png]]\n\n![[Pasted image 20231227103302.png]]\n![[Pasted image 20231227103310.png]]\n\n![[Pasted image 20231227103320.png]]\n\n![[Pasted image 20231227103622.png]]\n\n![[Pasted image 20231227104312.png]]\n\n![[Pasted image 20231227104439.png]]","x":160,"y":1720,"width":820,"height":1600}
+	],
+	"edges":[
+		{"id":"13f2d3c6a5f40a04","fromNode":"9abf2541601037a7","fromSide":"right","toNode":"666371abffd0f85c","toSide":"left"},
+		{"id":"1053062195cf0a15","fromNode":"9abf2541601037a7","fromSide":"right","toNode":"7bcf8ad34b8ed13a","toSide":"left"},
+		{"id":"5453350e14a1f8ae","fromNode":"7bcf8ad34b8ed13a","fromSide":"right","toNode":"28562b58ff3f40e4","toSide":"left"},
+		{"id":"83d25b51e409f47c","fromNode":"666371abffd0f85c","fromSide":"right","toNode":"28562b58ff3f40e4","toSide":"top"},
+		{"id":"0d9b60e3a895e633","fromNode":"7bcf8ad34b8ed13a","fromSide":"bottom","toNode":"679344ea5a57c1ce","toSide":"top"}
+	]
+}
