@@ -21,6 +21,6 @@ rmdir /S /Q "./GameTrunk/Plugins/Falcon"
 
 mklink /J H:\TKRandomMap\GameTrunk\Plugins\Falcon H:\TKRandomMap\Falcon
 ```
-![[c18029432eebbf5d9ee0fde3047f61b8_MD5.jpeg]]
+![c18029432eebbf5d9ee0fde3047f61b8_MD5](https://raw.githubusercontent.com/wanlilu/imgBed/main/notec18029432eebbf5d9ee0fde3047f61b8_MD5.jpeg)
 
 

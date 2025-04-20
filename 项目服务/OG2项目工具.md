@@ -15,7 +15,7 @@ Confluence 是 Atlassian 公司开发的一款团队协作软件，主要用�
 
 GSuite，现在已经更名为Google Workspace，是Google提供的一套云端办公工具集。
 
-![[Pasted image 20240117103012.png]]
+![Pasted image 20240117103012](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240117103012.png)
 OG2等权限 ，继续进行 ta的项目配置
 
 
@@ -23,7 +23,7 @@ OG2等权限 ，继续进行 ta的项目配置
 
 #### 需要安装的程序
 Unreal Engine, OfflinePCG, Ominverse Nucleus, Houdini 之间的关系
-![[Pasted image 20240117115101.png]]
+![Pasted image 20240117115101](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240117115101.png)
 #### HDA库
 <font color="#e36c09">上传HDA 工具会涉及到至少两个仓库，HoudiniTAPackages 和 项目仓库</font> 
 
@@ -49,23 +49,23 @@ ServiceBase 本地运行houdini 调试必须的
 ## 文档漏洞修改
 
 应强调 HoudiniTAPackages库放在C盘
-![[Pasted image 20240117121511.png]]
+![Pasted image 20240117121511](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240117121511.png)
 
 
 SerivceBase转换到新目录，权限提升至 developer
-![[Pasted image 20240117121547.png]]
+![Pasted image 20240117121547](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240117121547.png)
 
 ServiceBase库环境配置   install-tech.bat  已经换了新库 并且新库里没有子模块
-![[Pasted image 20240117140808.png]]
+![Pasted image 20240117140808](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240117140808.png)
 
 
 ## PCG工程
 
-![[Pasted image 20240117144201.png]]
+![Pasted image 20240117144201](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240117144201.png)
 
 
-![[Pasted image 20240117144447.png]]
-![[Pasted image 20240117144519.png]]
+![Pasted image 20240117144447](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240117144447.png)
+![Pasted image 20240117144519](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240117144519.png)
 
 ## Offline pcg BUG
 

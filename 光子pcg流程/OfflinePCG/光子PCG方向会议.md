@@ -10,9 +10,9 @@
 	2. 大量定制化工具，工具复杂高
 	3. 定制流程，如PGame跨引擎，OG2城市多人协作
 2. 弱链接项目：
-	1. 实验性项目，或轻量项目需要某个工具
-	2. vision pro 海岛项目，制作野外地形，要求底
-	3. 只需要单独使用某个工具，如LOD批量制作、瀑布工具
+	4. 实验性项目，或轻量项目需要某个工具
+	5. vision pro 海岛项目，制作野外地形，要求底
+	6. 只需要单独使用某个工具，如LOD批量制作、瀑布工具
 
 ## 光子PCG工具模块
 1. OfflinePCG 地形系统
@@ -39,13 +39,13 @@
 	2. Filters
 	3. MeshProjection、Spline Terrain、TextureProjection
 4. UE PCG
-	1. 解耦offlinePCG & USD、
+	4. 解耦offlinePCG & USD、
 
 
 
 ## UE  PCG & Houdini-USD
 6. 植被、河流、土路 https://github.com/freetimecoder/unreal-pcg-examples
-	1. ![[Pasted image 20240407190000.png]]
+	1. ![Pasted image 20240407190000](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240407190000.png)
 	2. 拓展UE PCG 
 		1. https://nebukam.github.io/PCGExtendedToolkit/
 		2. USD Houdini Connector

@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=gYmsAFz1o9Q 场景破败程度
 
 ## 全局雾效
 
-![[Pasted image 20240924153546.png]]
+![Pasted image 20240924153546](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240924153546.png)
 
 
 ## 工具示例
@@ -34,17 +34,17 @@ https://www.youtube.com/watch?v=gYmsAFz1o9Q 场景破败程度
 	2. Mask
 	3. 
 2. 工具
-	1. USDActor 工具流程
-	2. 野外
+	4. USDActor 工具流程
+	5. 野外
 		1. 藤蔓         -     USD
 		2. 地表贴花   -    USD
 		3. 植被          -    UE PCG
-	3. 地形
-		1. Erosion    -      USD
-		2. 梯田         -      USD
-		3. 崖壁        -       USD -  UE PCG
-	4. 水体工具
-		1. 水体
+	6. 地形
+		4. Erosion    -      USD
+		5. 梯田         -      USD
+		6. 崖壁        -       USD -  UE PCG
+	7. 水体工具
+		7. 水体
 			1. 写实水体
 			2. 卡通水体
-	5. 建筑工具流程
+	8. 建筑工具流程

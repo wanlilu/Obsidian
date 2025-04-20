@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "default/Home/Home.md",
+                "file": "光子pcg流程/周会记录/0918.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "0918"
             }
           },
           {
@@ -44,9 +44,23 @@
               "icon": "diff",
               "title": "Diff: Home"
             }
+          },
+          {
+            "id": "dfc893c942df044e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Falcon工作/FalconComponentiwiki/Ring/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 367.5
   },
   "right": {
     "id": "2954d7cf277c2f19",
@@ -251,37 +265,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f56882685d297664",
+  "active": "dfc893c942df044e",
   "lastOpenFiles": [
+    "光子pcg流程/Demo/Demo - SideFx.md",
+    "1704813346-166841b1de4c0643bfe90a8b5a8470cb.md",
+    "Falcon工作/FalconComponentiwiki/Ring/index.md",
+    "Falcon工作/FalconComponentiwiki/Ring/assets/1704813346-68a95c2dd915a022757cce8ae0f1c732.gif",
+    "Falcon工作/FalconComponentiwiki/Ring/assets/1704813346-0b95f0082c86623bb3ccf41eddc04c8b.png",
+    "Falcon工作/FalconComponentiwiki/Ring/assets/1704813346-2ee83324585986f198bed6a3de09793d.gif",
+    "Falcon工作/FalconComponentiwiki/音频建筑体积生成/index.md",
+    "Falcon工作/FalconComponentiwiki/侵蚀模拟 Erosion(WM)/index.md",
+    "Falcon工作/FalconComponentiwiki/色素生成 Pigment/index.md",
+    "Falcon工作/FalconComponentiwiki/色素生成 Pigment/assets/1704813509-fd7976f7b401fb858c859dda738b7af1.png",
+    "Falcon工作/FalconComponentiwiki/色素生成 Pigment/assets/1704813509-d56c24c81b5e5f02b023f9382e1ca21d.svg",
+    "Falcon工作/FalconComponentiwiki/色素生成 Pigment/assets/1704813509-48f34ae457aeafc603ab0a403f103594.svg",
+    "Falcon工作/FalconComponentiwiki/色素生成 Pigment/assets/1704813509-29e130efc01a11757a9a1504040d2fc8.png",
+    "Falcon工作/FalconComponentiwiki/色素生成 Pigment/assets/1704813509-0b95f0082c86623bb3ccf41eddc04c8b.png",
+    "Falcon工作/FalconComponentiwiki/GaeaBridge/index.md",
+    "default/Home/导航.md",
+    "Falcon工作/FalconComponentiwiki/GaeaBridge/assets/1704813805-9b49b4ca16563e9096e9fae47cc6c125.gif",
+    "Falcon工作/FalconComponentiwiki/GaeaBridge/assets/1704813805-0b95f0082c86623bb3ccf41eddc04c8b.png",
+    "Falcon工作/FalconComponentiwiki/模型投影V2 MeshProjectionII/index.md",
+    "Falcon工作/FalconComponentiwiki/模型投影 Mesh Projection/index.md",
+    "Falcon工作/FalconComponentiwiki/高度曲线 Curve/index.md",
+    "Falcon工作/FalconComponentiwiki/地形塑造Filters/index.md",
+    "Falcon工作/Falcon/TK地形分析.md",
+    "Falcon工作/Falcon/Falcon工具.md",
+    "Falcon工作/falconiwiki/基于层和组件的程序化制作流程 - 腾讯iWiki.md",
+    "Falcon工作/tk/地图地形地势自适应道路/index.md",
+    "Falcon工作/Falcon/bat文件参考.md",
+    "default/Thino.thino.md",
+    "default/Thino.thino.canvas",
+    "default/Home/TaskNotDone.md",
+    "default/Home/TaskDone.md",
+    "default/Home/iWiki.md",
+    "default/Home/Idea.md",
     "default/Home/Home.md",
-    "项目服务/PGame任务管理.md",
-    "光子pcg流程/周会记录/2025年LightCraft目标.md",
-    "光子pcg流程/产品/工具架开发.md",
-    "textgenerator/templates/trash/default/rewrite.md",
-    "textgenerator/templates/trash/default/getTags.md",
-    "textgenerator/templates/trash/default/getTitles.md",
-    "textgenerator/templates/trash/default/getIdeas.md",
-    "textgenerator/templates/trash/default/summarize.md",
-    "textgenerator/templates/trash/default/simplify.md",
-    "textgenerator/templates/trash/default/getOutline.md",
-    "textgenerator/templates/trash/default/getEmailNeg.md",
-    "textgenerator/templates/trash/default/getEmailPos.md",
-    "textgenerator/templates/trash/default/getParagraph.md",
-    "textgenerator/templates/trash/default/summarizeLarge.md",
+    "default/Home/教程网站.md",
+    "default/diary/2023-10-26.md",
+    "default/diary/2024-04-07.md",
+    "光子pcg流程/周会记录/0826周会.canvas",
+    "光子pcg流程/产品/PCG方向讨论.canvas",
     "textgenerator/templates/trash/default",
     "textgenerator/templates/trash",
-    "textgenerator/configs/llm/config_2-7175437.json.md",
-    "会议_冲突文件_84703_20250121104705.md",
-    "光子pcg流程/产品/2024下开发规划.md",
-    "光子pcg流程/周会记录/会议规划.md",
-    "光子pcg流程/周会记录/2024年下工作汇总.md",
-    "光子pcg流程/产品/PCG方向讨论.canvas",
-    "光子pcg流程/Demo/Demo - Wild.md",
-    "光子pcg流程/Demo/Demo - SideFx.md",
-    "textgenerator/templates/default/rewrite.md",
-    "textgenerator/templates/default/getTags.md",
-    "textgenerator/templates/default/simplify.md",
-    "textgenerator/templates/default/summarize.md",
     "textgenerator/configs/llm",
     "textgenerator/templates/default",
     "光子pcg流程/产品",
@@ -289,24 +315,12 @@
     "textgenerator/configs",
     "textgenerator/templates",
     "textgenerator",
-    "_DataAsset/Pasted image 20241212170501.png",
-    "个人/场景编辑/_DataAsset/Pasted image 20241220175043.png",
-    "个人/场景编辑/_DataAsset/Pasted image 20241220171325.png",
-    "个人/场景编辑/_DataAsset/Pasted image 20241220171349.png",
-    "个人/场景编辑/_DataAsset/Pasted image 20241220165628.png",
-    "个人/场景编辑/_DataAsset/Pasted image 20241220171241.png",
-    "个人/场景编辑/_DataAsset/Pasted image 20241220171229.png",
-    "个人/场景编辑/_DataAsset/Pasted image 20241220164448.png",
-    "个人/场景编辑/_DataAsset/Pasted image 20241220164526.png",
-    "个人/场景编辑/_DataAsset/Pasted image 20241220164418.png",
     "个人/场景编辑/_DataAsset",
     "光子pcg流程/PCG方向讨论.canvas",
-    "default/Thino.thino.canvas",
     "个人/目标.canvas",
     "个人/未命名.canvas",
     "个人/Matrix.canvas",
     "default.thino.canvas",
-    "光子pcg流程/周会记录/0826周会.canvas",
     "未命名.canvas",
     "工作/崖壁工具/崖壁工具看板.canvas"
   ]

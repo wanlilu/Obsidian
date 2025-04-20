@@ -35,11 +35,11 @@ BOX阈值：如果一个物体的外壳和BOX比较接近，则会变成一个BO
 
 强制生成BOUND：不生成convex外壳，强制生成BOX。
 
-![](1704816853-b035792391d9a13bf68c91cdf2e89f16.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-b035792391d9a13bf68c91cdf2e89f16.png)
 
 生成MESH后，选中它们，执行菜单Falcon->Falcon audio volume placement，即可生成蓝图实例。
 
-![](1704816853-096a9acd59e9db06eb4ea8e63143d432.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-096a9acd59e9db06eb4ea8e63143d432.png)
 
 上面PYTHON执行的本质是将蓝图模板实例放入场景，
 
@@ -63,11 +63,11 @@ audioVolumeGenerating.mp4
 
 批量生成过程中，可以点击run in background,使任务后台运行，然后可以进行其他操作。
 
-![](1704816853-089aa169a4387cc005973562a6ecac91.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-089aa169a4387cc005973562a6ecac91.png)
 
 ## 创建方法：
 
-![](1704816853-a928c6dd7effed8f8e6d1880aaa36918.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-a928c6dd7effed8f8e6d1880aaa36918.png)
 
 1.选择编辑器模式：Falcon modes
 
@@ -77,11 +77,11 @@ audioVolumeGenerating.mp4
 
 然后打开批处理窗口：**之后如果仍然想要打开此文档，查看使用方法，可以点击工具右侧的问号按钮。**
 
-![](1704816853-ba5d7eadb9bd4ccb4d3eea1b9c383875.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-ba5d7eadb9bd4ccb4d3eea1b9c383875.png)
 
 ## 参数含义：
 
-![](1704816853-7ca79c3835cdb30efe38e89c501f547f.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-7ca79c3835cdb30efe38e89c501f547f.png)
 
 左侧为要进行批量计算的ACTOR，可以进行选择之后，批量拖入。
 
@@ -107,17 +107,17 @@ audioVolumeGenerating.mp4
 
 成为第一个点赞的人
 
-*   ![](1704816853-48f34ae457aeafc603ab0a403f103594.svg)73
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-48f34ae457aeafc603ab0a403f103594.svg)73
     
-*   ![](1704816853-0b95f0082c86623bb3ccf41eddc04c8b.png)12
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-0b95f0082c86623bb3ccf41eddc04c8b.png)12
     
-*   ![](1704816853-fd7976f7b401fb858c859dda738b7af1.png)0
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-fd7976f7b401fb858c859dda738b7af1.png)0
     
 
-![](1704816853-58e5fa504b5449b7a89a07130def4d77.png)添加标签
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-58e5fa504b5449b7a89a07130def4d77.png)添加标签
 
-![](1704816853-325ac912a48e528af8ab64d72cca36b5.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-325ac912a48e528af8ab64d72cca36b5.svg)
 
 发表评论，抢沙发...
 
-![](1704816853-d56c24c81b5e5f02b023f9382e1ca21d.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704816853-d56c24c81b5e5f02b023f9382e1ca21d.svg)

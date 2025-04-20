@@ -1,9 +1,9 @@
 
 ## 道路
-![[Pasted image 20240909204755.png]]
+![Pasted image 20240909204755](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240909204755.png)
 
 ## 小工具展示
-![[Pasted image 20240909204850.png]]
+![Pasted image 20240909204850](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePasted%20image%2020240909204850.png)
 1. 路灯工具，转成 -> 多个splines 输入
 2. 野外曲线控制器，生成 电线控制器
 3. 野外道路工具 道路半透道路mesh，输出m_road 给 erosion使用   野外道路->Erosion hdas工具

@@ -17,15 +17,15 @@ machzhang(张诚)
     
 *   从大纲中拖动 Actor 到“投影目标”下的绿框  
     
-    ![](1704813437-6f476252c0161adc15c0f202ac0953a0.png)
+    ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813437-6f476252c0161adc15c0f202ac0953a0.png)
     
 *   点击 Project Mesh， 地形就会隆起到 Actor 的高度。点击 Toggle Material 使用半透明材质  
     
-    ![](1704813437-83ad693263d5033a8b73f014ea97c7c5.png)
+    ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813437-83ad693263d5033a8b73f014ea97c7c5.png)
     
 *   如果出现下面的提示，点击 Move Targets，把 Actor 和组件放到同一张子地图中保存  
     
-    ![](1704813437-ac3b7ff9184aae69e4681a2fac8d96f4.png)
+    ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813437-ac3b7ff9184aae69e4681a2fac8d96f4.png)
     
 
 ### Mesh 影响 Mask
@@ -36,11 +36,11 @@ machzhang(张诚)
     
 *   选中“输出 Mask”,并填入 Mask 名  
     
-    ![](1704813437-57184b61622d2f26f2d0bf82a35ec98b.png)
+    ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813437-57184b61622d2f26f2d0bf82a35ec98b.png)
     
       
     
-    ![](1704813437-abb3636c55631caa0d964b2de340489a.png)
+    ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813437-abb3636c55631caa0d964b2de340489a.png)
     
 
 # 参数与动作
@@ -225,17 +225,17 @@ Text is not SVG - cannot display
 
 Actor Pred
 
-*   ![](1704813437-48f34ae457aeafc603ab0a403f103594.svg)92
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813437-48f34ae457aeafc603ab0a403f103594.svg)92
     
-*   ![](1704813437-0b95f0082c86623bb3ccf41eddc04c8b.png)19
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813437-0b95f0082c86623bb3ccf41eddc04c8b.png)19
     
-*   ![](1704813437-fd7976f7b401fb858c859dda738b7af1.png)0
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813437-fd7976f7b401fb858c859dda738b7af1.png)0
     
 
-![](1704813437-58e5fa504b5449b7a89a07130def4d77.png)添加标签
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813437-58e5fa504b5449b7a89a07130def4d77.png)添加标签
 
-![](1704813437-325ac912a48e528af8ab64d72cca36b5.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813437-325ac912a48e528af8ab64d72cca36b5.svg)
 
 发表评论，抢沙发...
 
-![](1704813437-d56c24c81b5e5f02b023f9382e1ca21d.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813437-d56c24c81b5e5f02b023f9382e1ca21d.svg)

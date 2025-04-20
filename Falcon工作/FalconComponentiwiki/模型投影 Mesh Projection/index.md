@@ -28,12 +28,12 @@ fredqin(秦江)
 
 1.  默认选项下，组件只会影响地形高度。如果有其他需要,可以修改启用下面的参数：
     
-    1.  ![](1704813419-e9a6de5738a92996f8440e41a152f427.png)
+    1.  ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813419-e9a6de5738a92996f8440e41a152f427.png)
         
           
         将投影范围输出到 Mask  
          
-    2.  ![](1704813419-59751f0bff3199e80a21031a0ba96ecc.png)
+    2.  ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813419-59751f0bff3199e80a21031a0ba96ecc.png)
         
           
         将投影高度输出到 Mask
@@ -190,17 +190,17 @@ fredqin(秦江)
 
 功能盘点
 
-*   ![](1704813419-48f34ae457aeafc603ab0a403f103594.svg)463
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813419-48f34ae457aeafc603ab0a403f103594.svg)463
     
-*   ![](1704813419-0b95f0082c86623bb3ccf41eddc04c8b.png)70
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813419-0b95f0082c86623bb3ccf41eddc04c8b.png)70
     
-*   ![](1704813419-fd7976f7b401fb858c859dda738b7af1.png)0
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813419-fd7976f7b401fb858c859dda738b7af1.png)0
     
 
-![](1704813419-58e5fa504b5449b7a89a07130def4d77.png)添加标签
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813419-58e5fa504b5449b7a89a07130def4d77.png)添加标签
 
-![](1704813419-325ac912a48e528af8ab64d72cca36b5.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813419-325ac912a48e528af8ab64d72cca36b5.svg)
 
 发表评论，抢沙发...
 
-![](1704813419-d56c24c81b5e5f02b023f9382e1ca21d.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813419-d56c24c81b5e5f02b023f9382e1ca21d.svg)

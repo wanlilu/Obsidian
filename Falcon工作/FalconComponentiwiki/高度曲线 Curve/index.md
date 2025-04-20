@@ -20,7 +20,7 @@ fredqin(秦江)
 3.  自由拖动控制点，调整曲线，地形会实时跟随曲线形态变化。
     
 
-![enter image description here](1704813758-124cd8c8372dfbc2200eb74c062e3e94.png)
+![enter image description here](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813758-124cd8c8372dfbc2200eb74c062e3e94.png)
 
 ### 示例
 
@@ -35,18 +35,18 @@ Curve.mp4
 
 功能盘点
 
-*   ![](1704813758-48f34ae457aeafc603ab0a403f103594.svg)245
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813758-48f34ae457aeafc603ab0a403f103594.svg)245
     
-*   ![](1704813758-0b95f0082c86623bb3ccf41eddc04c8b.png)54
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813758-0b95f0082c86623bb3ccf41eddc04c8b.png)54
     
-*   ![](1704813758-fd7976f7b401fb858c859dda738b7af1.png)0
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813758-fd7976f7b401fb858c859dda738b7af1.png)0
     
 
-![](1704813758-58e5fa504b5449b7a89a07130def4d77.png)添加标签
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813758-58e5fa504b5449b7a89a07130def4d77.png)添加标签
 
-![](1704813758-325ac912a48e528af8ab64d72cca36b5.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813758-325ac912a48e528af8ab64d72cca36b5.svg)
 
 发表评论，抢沙发...
 
-![](1704813758-d56c24c81b5e5f02b023f9382e1ca21d.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/note1704813758-d56c24c81b5e5f02b023f9382e1ca21d.svg)
 [dfe :: ddd ] 
