@@ -23,15 +23,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "个人/目标.canvas",
+                "file": "光子pcg流程/产品/PCG成员规划.canvas",
                 "viewState": {
-                  "x": 1677.470603002801,
-                  "y": 855.9430979425616,
-                  "zoom": 0.061804608507805225
+                  "x": 2662.1692382400743,
+                  "y": -11.137500735318866,
+                  "zoom": -0.33333333333333326
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "目标"
+              "title": "PCG成员规划"
             }
           }
         ],
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 284.5
   },
   "right": {
     "id": "2954d7cf277c2f19",
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人/目标.canvas",
+                "file": "光子pcg流程/产品/PCG成员规划.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "目标 的大纲"
+              "title": "PCG成员规划 的大纲"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "个人/目标.canvas"
+                "file": "光子pcg流程/产品/PCG成员规划.canvas"
               },
               "icon": "lucide-info",
-              "title": "目标的笔记属性"
+              "title": "PCG成员规划的笔记属性"
             }
           },
           {
@@ -245,6 +245,13 @@
   },
   "active": "91759a1e8028df79",
   "lastOpenFiles": [
+    "项目服务/PGame任务管理.md",
+    "光子pcg流程/产品/PCG成员规划.canvas",
+    "光子pcg流程/产品/未命名.md",
+    "光子pcg流程/产品/2024下开发规划.md",
+    "光子pcg流程/产品/工具架开发.md",
+    "光子pcg流程/产品/PCG方向讨论.canvas",
+    "个人/目标.canvas",
     "个人/Matrix.canvas",
     "个人/Matrix Demo分析.md",
     "个人/PCG团队运营.md",
@@ -262,8 +269,6 @@
     "个人/_DataAsset/Pasted image 20241011102228.png",
     "个人/WeRead/狂飙（张译、张颂文主演）.md",
     "个人/WeRead/大败局（修订版）（套装共2册）.md",
-    "个人/目标.canvas",
-    "项目服务/PGame任务管理.md",
     "光子pcg流程/周会记录/0918.md",
     "个人/WeRead/原则.md",
     "个人/Biome core插件学习.md",
@@ -274,14 +279,10 @@
     "default/Home/iWiki.md",
     "default/Home/Home.md",
     "default/Home/导航.md",
-    "default/Home/教程网站.md",
-    "default/diary/2024-12-02.md",
-    "default/diary/2024-12-06.md",
     "default/_resources/image/diary/Pasted image 20231105081923.png",
     "default/_resources/image/diary/Pasted Image 20231026000929.png",
     "default/_resources/image/diary/企业微信截图_1712492543905.png",
     "default/_resources/image/2023-10-26/b8d757cd1bbd4871d633654b373b24c4_MD5.jpeg",
-    "光子pcg流程/产品/PCG方向讨论.canvas",
     "Falcon工作/FalconComponentiwiki/Path/assets/1704813318-a133a37951b1b8c1fb15397df16593f6.png",
     "default/Thino.thino.canvas",
     "光子pcg流程/周会记录/0826周会.canvas",
@@ -298,7 +299,6 @@
     "光子pcg流程/PCG方向讨论.canvas",
     "个人/未命名.canvas",
     "default.thino.canvas",
-    "未命名.canvas",
-    "工作/崖壁工具/崖壁工具看板.canvas"
+    "未命名.canvas"
   ]
 }
