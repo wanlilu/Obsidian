@@ -21,11 +21,11 @@ carmackzhu(朱宇航)
 
 2.检查手工层是否同时具备Region/Height/Weight三个Mask, 如果不是，则是异常。如下所示:
 
-![](1704699190-38b0316d8538a3ea007ce001bbf9688f.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699190-38b0316d8538a3ea007ce001bbf9688f.png)
 
 3.检查手工层的RegionMask是否完全被清空，如果不是，则是异常。
 
-![](1704699190-9f4cd0f6e85ec606e6c5aace7743ed15.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699190-9f4cd0f6e85ec606e6c5aace7743ed15.png)
 
 4.检查手工层的Height/Weight Mask是否相同，并且这两个Mask和没升级前的RegionMask是一模一样
 
@@ -33,29 +33,29 @@ carmackzhu(朱宇航)
 
 如果不满足，则是异常。
 
-![](1704699190-d65e958f652ac0a46d98226678f10d85.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699190-d65e958f652ac0a46d98226678f10d85.png)
 
 \[3\]如果上面的检查都没问题，则直接在SVN提交手工层代表的地图关卡. 比如手工层**Land\_GreenGround\_Repair**
 
-![](1704699190-8d620881bcf04a80ceebb0be5b8967a8.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699190-8d620881bcf04a80ceebb0be5b8967a8.png)
 
-![](1704699190-f2503a0b3130e1891ffe5ac284fca6bc.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699190-f2503a0b3130e1891ffe5ac284fca6bc.png)
 
 优而赞之，手有余香
 
 成为第一个点赞的人
 
-*   ![](1704699190-48f34ae457aeafc603ab0a403f103594.svg)37
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699190-48f34ae457aeafc603ab0a403f103594.svg)37
     
-*   ![](1704699190-0b95f0082c86623bb3ccf41eddc04c8b.png)12
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699190-0b95f0082c86623bb3ccf41eddc04c8b.png)12
     
-*   ![](1704699190-fd7976f7b401fb858c859dda738b7af1.png)0
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699190-fd7976f7b401fb858c859dda738b7af1.png)0
     
 
-![](1704699190-58e5fa504b5449b7a89a07130def4d77.png)添加标签
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699190-58e5fa504b5449b7a89a07130def4d77.png)添加标签
 
-![](1704699190-325ac912a48e528af8ab64d72cca36b5.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699190-325ac912a48e528af8ab64d72cca36b5.svg)
 
 发表评论，抢沙发...
 
-![](1704699190-d56c24c81b5e5f02b023f9382e1ca21d.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699190-d56c24c81b5e5f02b023f9382e1ca21d.svg)

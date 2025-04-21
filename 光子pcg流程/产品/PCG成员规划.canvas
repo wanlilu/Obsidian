@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"f84c95b6476dac1a","type":"text","text":"## 子公司候选人\n吴嘉俊 https://app-tc.mokahr.com/assignments/6210239?period=interview&assignmentId=1427491\n1.  作品：https://space.bilibili.com/1721978056\n2. 评价：\n\t1. 应用 ： Houdini 3.5分  unreal 4.2分  其他+2分\n\t2. 比较好的研究能力，使用过UE PCG、对场景搭建流程有想法\n\t3. 熟练使用UE蓝图，c++有基础\n\n\n王坤昊 https://app-tc.mokahr.com/assignments/6186402?period=assigned&assignmentId=1464604\n1. 作品：https://space.bilibili.com/286363023\n2. 评价：\n\t1. 应用： Houdini 3分  unreal 3分  \n\t2. 有强的上进心，年轻正是学习的好时期\n\t3. 蓝图基础薄弱，对材质蓝图比较熟悉，会python\n\n于书珉 https://app-tc.mokahr.com/assignments/6237836?period=interview&assignmentId=1466758\n1. 作品：https://app-tc.mokahr.com/assignments/6237836?period=interview&assignmentId=1466758 【见附录】\n2. 评价：\n\t1. 应用：Houdini 4.5分   unreal 3.5分\n\t2. 有比较深入的PCG houdini流程的行业经验，工作动力表现不足。非常标准的老式HoudiniTA","x":80,"y":-920,"width":500,"height":840},
+		{"id":"2f17c4537783b947","type":"text","text":"## 子公司候选人\n吴嘉俊 https://app-tc.mokahr.com/assignments/6210239?period=interview&assignmentId=1427491\n1.  作品：https://space.bilibili.com/1721978056\n2. 评价：\n\t1. 应用 ： Houdini 3.5分  unreal 4.2分  其他+2分\n\t2. 比较好的研究能力，使用过UE PCG、对场景搭建流程有想法\n\t3. 熟练使用UE蓝图，c++有基础\n\n\n王坤昊 https://app-tc.mokahr.com/assignments/6186402?period=assigned&assignmentId=1464604\n1. 作品：https://space.bilibili.com/286363023\n2. 评价：\n\t1. 应用： Houdini 3分  unreal 3分  \n\t2. 有强的上进心，年轻正是学习的好时期\n\t3. 蓝图基础薄弱，对材质蓝图比较熟悉，会python\n\n于书珉 https://app-tc.mokahr.com/assignments/6237836?period=interview&assignmentId=1466758\n1. 作品：https://app-tc.mokahr.com/assignments/6237836?period=interview&assignmentId=1466758 【见附录】\n2. 评价：\n\t1. 应用：Houdini 4.5分   unreal 3.5分\n\t2. 有比较深入的PCG houdini流程的行业经验，工作动力表现不足。非常标准的老式HoudiniTA","x":1060,"y":-920,"width":500,"height":840},
+		{"id":"6c4b89ab1b2f0f99","type":"text","text":"## 工具向人才","x":2020,"y":-220,"width":1140,"height":400},
+		{"id":"3b39195a2aa3689e","type":"text","text":"## 技术向人才","x":2020,"y":220,"width":1140,"height":400},
+		{"id":"a04dfc7e19d9764e","x":2020,"y":-660,"width":1140,"height":400,"type":"text","text":"## 子公司同学"}
+	],
+	"edges":[]
+}

@@ -11,18 +11,16 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Falcon工作/FalconComponentiwiki/模型投影 Mesh Projection/index.md",
-                "mode": "source",
-                "source": false
+                "file": "default/_resources/image/diary/Pasted image 20231227163008.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "Pasted image 20231227163008"
             }
           },
           {
-            "id": "fa817064e78a6679",
+            "id": "7350bccddc22459c",
             "type": "leaf",
             "state": {
               "type": "thino_view",
@@ -32,17 +30,17 @@
             }
           },
           {
-            "id": "a4b134cdb02d52df",
+            "id": "4b98c13709e20ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "光子pcg流程/OfflinePCG/光子PCGTA组.md",
+                "file": "个人/工具/Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "光子PCGTA组"
+              "title": "Obsidian"
             }
           }
         ]
@@ -85,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 531.5
   },
   "right": {
     "id": "2954d7cf277c2f19",
@@ -148,10 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "会议.md"
+                "file": "Falcon工作/tk/公路风格道路构建方案/assets/1704698750-046e7547fcfa0ceebb33fe78a7b86eb0.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "会议 的大纲"
+              "title": "1704698750-046e7547fcfa0ceebb33fe78a7b86eb0 的大纲"
             }
           },
           {
@@ -174,10 +175,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "会议.md"
+                "file": "Falcon工作/tk/公路风格道路构建方案/assets/1704698750-046e7547fcfa0ceebb33fe78a7b86eb0.png"
               },
               "icon": "lucide-info",
-              "title": "会议的笔记属性"
+              "title": "1704698750-046e7547fcfa0ceebb33fe78a7b86eb0的笔记属性"
             }
           },
           {
@@ -201,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "91fc2ad3a4233d85",
@@ -229,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 462.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,47 +251,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0412c727d1cf23ba",
   "lastOpenFiles": [
-    "Falcon工作/FalconComponentiwiki/地形塑造Filters/index.md",
-    "Falcon工作/falconiwiki/falcon/2024-01-08-1704696870/index.md",
-    "Falcon工作/falconiwiki/falcon/2024-01-08-1704696808/index.md",
-    "default/Home/Home.md",
-    "项目服务/PGame任务管理.md",
-    "光子pcg流程/OfflinePCG/光子PCGTA组.md",
-    "Falcon工作/Falcon/TK地形分析.md",
-    "Falcon工作/FalconComponentiwiki/侵蚀模拟 Erosion(WM)/index.md",
-    "Falcon工作/FalconComponentiwiki/模型投影 Mesh Projection/index.md",
-    "Falcon工作/FalconComponentiwiki/高度曲线 Curve/index.md",
-    "光子pcg流程/周会记录/0918.md",
-    "1704813318-481c7268da037f0f700f93347ab03ed9.md",
-    "1704813346-166841b1de4c0643bfe90a8b5a8470cb.md",
+    "default/_resources/image/diary/Pasted Image 20231026110246.png",
+    "default/_resources/image/diary/Pasted Image 20231026000929.png",
     "Falcon工作/FalconComponentiwiki/Path/index.md",
-    "Falcon工作/FalconComponentiwiki/Path/assets/1704813318-a133a37951b1b8c1fb15397df16593f6.png",
-    "Falcon工作/FalconComponentiwiki/Path/assets/1704813318-4006c32164a53b9a97e041b8b9976227.png",
-    "Falcon工作/FalconComponentiwiki/Path/assets/1704813318-58e5fa504b5449b7a89a07130def4d77.png",
-    "Falcon工作/FalconComponentiwiki/Path/assets/1704813318-00b9674250f3179f2bacaab70d3f1929.png",
-    "Falcon工作/FalconComponentiwiki/Path/assets/1704813318-0b95f0082c86623bb3ccf41eddc04c8b.png",
-    "Falcon工作/FalconComponentiwiki/Ring/index.md",
-    "光子pcg流程/Demo/Demo - SideFx.md",
-    "Falcon工作/FalconComponentiwiki/Ring/assets/1704813346-68a95c2dd915a022757cce8ae0f1c732.gif",
-    "Falcon工作/FalconComponentiwiki/Ring/assets/1704813346-0b95f0082c86623bb3ccf41eddc04c8b.png",
-    "Falcon工作/FalconComponentiwiki/Ring/assets/1704813346-2ee83324585986f198bed6a3de09793d.gif",
-    "Falcon工作/FalconComponentiwiki/音频建筑体积生成/index.md",
-    "Falcon工作/FalconComponentiwiki/色素生成 Pigment/index.md",
-    "Falcon工作/FalconComponentiwiki/色素生成 Pigment/assets/1704813509-fd7976f7b401fb858c859dda738b7af1.png",
-    "Falcon工作/FalconComponentiwiki/色素生成 Pigment/assets/1704813509-d56c24c81b5e5f02b023f9382e1ca21d.svg",
-    "Falcon工作/FalconComponentiwiki/GaeaBridge/index.md",
-    "default/Home/导航.md",
-    "Falcon工作/FalconComponentiwiki/模型投影V2 MeshProjectionII/index.md",
-    "Falcon工作/Falcon/Falcon工具.md",
-    "Falcon工作/falconiwiki/基于层和组件的程序化制作流程 - 腾讯iWiki.md",
+    "default/Home/Home.md",
+    "个人/工具/Obsidian.md",
+    "default/_resources/image/diary/Pasted image 20231104155553.png",
+    "default/_resources/image/diary/Pasted image 20240501152829.png",
+    "default/_resources/image/diary/Pasted image 20240501153143.png",
+    "default/_resources/image/diary/Pasted image 20231105074602.png",
+    "光子pcg流程/周会记录/会议规划.md",
+    "Falcon工作/tk/荒野地区地形地貌程序化生成/assets/1704699404-fd7976f7b401fb858c859dda738b7af1.png",
+    "Falcon工作/tk/荒野地区地形地貌程序化生成/index.md",
+    "项目服务/PGame任务管理.md",
+    "Falcon工作/tk/植被撒点效果生成逻辑汇总/assets/1704699250-0b95f0082c86623bb3ccf41eddc04c8b.png",
+    "Falcon工作/tk/Breakout 地形权重处理逻辑汇总/assets/1704698437-fd7976f7b401fb858c859dda738b7af1.png",
+    "Falcon工作/tk/Breakout 地形权重处理逻辑汇总/index.md",
+    "Falcon工作/tk/POI LALD使用流程/index.md",
+    "Falcon工作/tk/植被撒点效果生成逻辑汇总/index.md",
+    "Falcon工作/tk/Breakout 地图PCG制作思路/index.md",
+    "Falcon工作/tk/河流生成方案/index.md",
+    "Falcon工作/tk/手工层高度Mask和权重Mask分离的手工层升级指导/index.md",
+    "Falcon工作/tk/公路风格道路构建方案/index.md",
+    "Falcon工作/tk/工具开发通用规则or标准/index.md",
     "Falcon工作/tk/地图地形地势自适应道路/index.md",
-    "Falcon工作/Falcon/bat文件参考.md",
-    "default/Thino.thino.md",
+    "Falcon工作/falconiwiki/基于层和组件的程序化制作流程 - 腾讯iWiki.md",
+    "Falcon工作/FalconComponentiwiki/Variant Mask/index.md",
+    "Falcon工作/Falcon/TK地形分析.md",
+    "光子pcg流程/产品/PCG成员规划.canvas",
+    "光子pcg流程/产品/未命名.md",
+    "光子pcg流程/产品/2024下开发规划.md",
+    "光子pcg流程/产品/工具架开发.md",
+    "光子pcg流程/产品/PCG方向讨论.canvas",
+    "个人/目标.canvas",
+    "个人/Matrix.canvas",
+    "个人/Matrix Demo分析.md",
+    "个人/PCG团队运营.md",
+    "个人/pipeline 记录.md",
+    "个人/Unreal-LookDev配置及注意事项.md",
+    "个人/场景编辑/_DataAsset/Pasted image 20241220164254.png",
+    "个人/_DataAsset/Pasted image 20241011102335.png",
     "default/Thino.thino.canvas",
     "光子pcg流程/周会记录/0826周会.canvas",
-    "光子pcg流程/产品/PCG方向讨论.canvas",
     "textgenerator/templates/trash/default",
     "textgenerator/templates/trash",
     "textgenerator/configs/llm",
@@ -302,11 +306,8 @@
     "textgenerator",
     "个人/场景编辑/_DataAsset",
     "光子pcg流程/PCG方向讨论.canvas",
-    "个人/目标.canvas",
     "个人/未命名.canvas",
-    "个人/Matrix.canvas",
     "default.thino.canvas",
-    "未命名.canvas",
-    "工作/崖壁工具/崖壁工具看板.canvas"
+    "未命名.canvas"
   ]
 }
