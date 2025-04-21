@@ -28,7 +28,7 @@
   "autosaveChat": false,
   "defaultOpenArea": "view",
   "customPromptsFolder": "copilot-custom-prompts",
-  "indexVaultToVectorStore": "ON MODE SWITCH",
+  "indexVaultToVectorStore": "ON STARTUP",
   "qaExclusions": "",
   "qaInclusions": "",
   "chatNoteContextPath": "",

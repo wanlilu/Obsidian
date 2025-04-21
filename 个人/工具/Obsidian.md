@@ -29,30 +29,3 @@
 ### 工具参考
 
 ![[07274a887ca5843f924005ba385687fa_MD5.jpg]]
-
----
-
-### 编辑测试
-
-```python
-int a = 1;
-int b = 2; 
-
-
-```
-
-
-> 
-> 1. sdff 
-> 2. sdfasdf
-> 3. sdf 
-> 
-
-| sdfs   | sdf | sdfsfsdfd |
-| ------ | --- | --------- |
-| ss     | ss  | ss        |
-| ss     | asd | asd       |
-| asdasd | asd | asd       |
-|        |     |           |
-
-## C

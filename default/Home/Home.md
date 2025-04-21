@@ -2,8 +2,7 @@
 banner: "![PixPin_2024-09-19_10-27-34](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePixPin_2024-09-19_10-27-34.png)"
 ---
 ---
-banner: "![PixPin_2024-09-19_10-27-34](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePixPin_2024-09-19_10-27-34.png)"
-banner_y: 0
+![PixPin_2024-09-19_10-27-34](https://raw.githubusercontent.com/wanlilu/imgBed/main/notePixPin_2024-09-19_10-27-34.png)
 ---
 ``````ad-note
 title:快捷方式
