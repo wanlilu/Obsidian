@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "default/Home/Home.md",
+                "file": "Falcon工作/FalconComponentiwiki/模型投影 Mesh Projection/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "index"
             }
           },
           {
@@ -45,8 +45,7 @@
               "title": "光子PCGTA组"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 250.5
   },
   "right": {
     "id": "2954d7cf277c2f19",
@@ -230,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,15 +250,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4aec53a11e57b81",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Falcon工作/FalconComponentiwiki/地形塑造Filters/index.md",
+    "Falcon工作/falconiwiki/falcon/2024-01-08-1704696870/index.md",
+    "Falcon工作/falconiwiki/falcon/2024-01-08-1704696808/index.md",
+    "default/Home/Home.md",
+    "项目服务/PGame任务管理.md",
+    "光子pcg流程/OfflinePCG/光子PCGTA组.md",
     "Falcon工作/Falcon/TK地形分析.md",
     "Falcon工作/FalconComponentiwiki/侵蚀模拟 Erosion(WM)/index.md",
     "Falcon工作/FalconComponentiwiki/模型投影 Mesh Projection/index.md",
     "Falcon工作/FalconComponentiwiki/高度曲线 Curve/index.md",
-    "Falcon工作/FalconComponentiwiki/地形塑造Filters/index.md",
-    "default/Home/Home.md",
-    "项目服务/PGame任务管理.md",
     "光子pcg流程/周会记录/0918.md",
     "1704813318-481c7268da037f0f700f93347ab03ed9.md",
     "1704813346-166841b1de4c0643bfe90a8b5a8470cb.md",
@@ -287,9 +289,6 @@
     "Falcon工作/Falcon/bat文件参考.md",
     "default/Thino.thino.md",
     "default/Thino.thino.canvas",
-    "default/Home/TaskNotDone.md",
-    "default/Home/TaskDone.md",
-    "default/Home/iWiki.md",
     "光子pcg流程/周会记录/0826周会.canvas",
     "光子pcg流程/产品/PCG方向讨论.canvas",
     "textgenerator/templates/trash/default",
