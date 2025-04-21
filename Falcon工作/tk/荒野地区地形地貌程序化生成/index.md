@@ -7,33 +7,33 @@ coenjin(金沛沛)
 
 包含 **南部地区** 和 **核心区域** 的地形地貌程序化生成
 
-![](1704699404-b3cc08e22a69047f11f24454e6af0f50.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-b3cc08e22a69047f11f24454e6af0f50.png)
 
-![](1704699404-cbeea57a853956dd73261f7897f553db.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-cbeea57a853956dd73261f7897f553db.png)
 
 荒野地区地形地貌，根据 LD 摆放的不同类型白盒作为引导进行生成（白盒输入规范参考下文）。
 
-![](1704699404-c73b597f8c4ddc5571b187a4935ebe22.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-c73b597f8c4ddc5571b187a4935ebe22.png)
 
-![](1704699404-4ecccccd50487d32eda34dbfb5a23457.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-4ecccccd50487d32eda34dbfb5a23457.png)
 
 # 组件逻辑
 
 与荒野区域地形地貌相关的有两个层，分别是 Land\_Plan 和 Land\_South/Land\_Core；
 
-![](1704699404-ae6de90a57035a9a630c0b1d4392762c.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-ae6de90a57035a9a630c0b1d4392762c.png)
 
 ## Land\_Plan
 
 用来确定荒野区域的合成范围，给到 Land\_South/Land\_Core 层作为 region mask
 
-![](1704699404-d938e0c85d324b958a2b5c934ca0d27d.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-d938e0c85d324b958a2b5c934ca0d27d.png)
 
-![](1704699404-ba8e09c3493254c22101f8fdd1dea3f1.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-ba8e09c3493254c22101f8fdd1dea3f1.png)
 
 这个区域目前是通过手绘的方式来确定，进入 variant mask 的 Component mask 中即可看到对应的手绘mask
 
-![](1704699404-e857bb51cf5e43fecdb175a58275b539.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-e857bb51cf5e43fecdb175a58275b539.png)
 
 ## Land\_South/Land\_Core
 
@@ -62,7 +62,7 @@ Land\_South/Land\_Core层基于白盒程序化生成南部区域的地形；
 10.  基于侵蚀结果，添加地形权重
     
 
-![](1704699404-3f7735964e08a13adb9e05b764d84511.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-3f7735964e08a13adb9e05b764d84511.png)
 
 ### 更新与适配
 
@@ -70,21 +70,21 @@ Land\_South/Land\_Core层基于白盒程序化生成南部区域的地形；
 
 1、首先对一开始的几个 MeshProjection 组件进行重新投射
 
-![](1704699404-43446e5bc08fb55093c2cd21e97e571f.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-43446e5bc08fb55093c2cd21e97e571f.png)
 
-![](1704699404-45a239db0d303bcdd9d08648467181a0.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-45a239db0d303bcdd9d08648467181a0.png)
 
 2、对大侵蚀组件进行重新cook
 
-![](1704699404-5d49925d8f80d34b182a6daba4a46d30.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-5d49925d8f80d34b182a6daba4a46d30.png)
 
 3、对 Limited Height 白盒进行重新投射
 
-![](1704699404-e21bd85f6acf5acd112ffad74cd2564e.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-e21bd85f6acf5acd112ffad74cd2564e.png)
 
 4、对小侵蚀进行重新 cook
 
-![](1704699404-798886edd0c6f421f50243ae830d161f.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-798886edd0c6f421f50243ae830d161f.png)
 
 # 白盒输入规范
 
@@ -103,17 +103,17 @@ Land\_South/Land\_Core层基于白盒程序化生成南部区域的地形；
 
 2023-08-14 coenjin
 
-*   ![](1704699404-48f34ae457aeafc603ab0a403f103594.svg)108
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-48f34ae457aeafc603ab0a403f103594.svg)108
     
-*   ![](1704699404-0b95f0082c86623bb3ccf41eddc04c8b.png)14
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-0b95f0082c86623bb3ccf41eddc04c8b.png)14
     
-*   ![](1704699404-fd7976f7b401fb858c859dda738b7af1.png)0
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-fd7976f7b401fb858c859dda738b7af1.png)0
     
 
-![](1704699404-58e5fa504b5449b7a89a07130def4d77.png)添加标签
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-58e5fa504b5449b7a89a07130def4d77.png)添加标签
 
-![](1704699404-325ac912a48e528af8ab64d72cca36b5.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-325ac912a48e528af8ab64d72cca36b5.svg)
 
 发表评论，抢沙发...
 
-![](1704699404-d56c24c81b5e5f02b023f9382e1ca21d.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699404-d56c24c81b5e5f02b023f9382e1ca21d.svg)

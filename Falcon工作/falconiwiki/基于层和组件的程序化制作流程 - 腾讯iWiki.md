@@ -17,7 +17,7 @@
 **分层：** 
 --------
 
-![[Pasted image 20240108142846.png]]
+![Pasted image 20240108142846](https://raw.githubusercontent.com/wanlilu/imgBed/main/Pasted%20image%2020240108142846.png)
 
 对于开放世界的制作，引擎的做法是将大地图以网格的方式来切分，将每个地块独立保存为一个关卡文件。
 

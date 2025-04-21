@@ -17,17 +17,17 @@ coenjin(金沛沛)
 
 **Actor 同步模式**：决定当前 capturedPresetSpawner 组件生效的 poi 上，是否生成其中的 actors，如果选 none，则只生成地形和mask，如果选择 Normal，则即生成地形和mask，也会生成上面的 actors;
 
-![](1704699510-acfea8914315d9dd5347bd76b694cc22.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-acfea8914315d9dd5347bd76b694cc22.png)
 
 点击 poi （点击场景中的 边框 即可以选中 poi），也可以针对场景中单个 poi 个体进行调整
 
-![](1704699510-a46cfc32994ce5c769fc55c65510beac.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-a46cfc32994ce5c769fc55c65510beac.png)
 
 ## Bake Actors
 
 可以将当前 capturedPresetSpawner 组件上起效的 poi 上的 actors bake 到一个指定的关卡上，用于后续美术流程上对这些 actors 进行统一管理。  
 
-![](1704699510-5129065324bfe70259794319b3628cd2.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-5129065324bfe70259794319b3628cd2.png)
 
 # LD 使用 POI
 
@@ -41,11 +41,11 @@ coenjin(金沛沛)
 
 然后调整高度过渡、权重过渡等与地形的混合效果；
 
-![](1704699510-2b8156e5694e73a677a66ce7edb6ed06.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-2b8156e5694e73a677a66ce7edb6ed06.png)
 
 如果对当前 poi 中的 actors 作了修改，想要**保存覆盖回原始 poi 数据**，可以点击 Detail 面板上的 **Sync Actors Back**。
 
-![](1704699510-b8b3998f78638c52e7ad24d8bcae47aa.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-b8b3998f78638c52e7ad24d8bcae47aa.png)
 
 ## 在LA修改后调整 POI
 
@@ -53,7 +53,7 @@ LA会将 poi 中的 actors bake 到一个指定的关卡上进行修改，因此
 
 另外，如果想要保存 LA 的结果回 LD 的 poi，可以选中 poi，点击 Detail 面板上的 **Sync Actors Back**。
 
-![](1704699510-27e71a236d77d0326bc3d49b307f8497.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-27e71a236d77d0326bc3d49b307f8497.png)
 
 # LA 使用 POI
 
@@ -61,7 +61,7 @@ LA会将 poi 中的 actors bake 到一个指定的关卡上进行修改，因此
 
 做上述处理之后，LA 就可以在 bake 关卡上对 poi 上的 actors 做各种操作了。
 
-![](1704699510-60b86a09af5529bcaeeaf2dac641f5cd.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-60b86a09af5529bcaeeaf2dac641f5cd.png)
 
 优而赞之，手有余香
 
@@ -72,17 +72,17 @@ LA会将 poi 中的 actors bake 到一个指定的关卡上进行修改，因此
 
 07-地形Preset(POI)及Ruled Scatter
 
-*   ![](1704699510-48f34ae457aeafc603ab0a403f103594.svg)96
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-48f34ae457aeafc603ab0a403f103594.svg)96
     
-*   ![](1704699510-0b95f0082c86623bb3ccf41eddc04c8b.png)22
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-0b95f0082c86623bb3ccf41eddc04c8b.png)22
     
-*   ![](1704699510-fd7976f7b401fb858c859dda738b7af1.png)0
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-fd7976f7b401fb858c859dda738b7af1.png)0
     
 
-![](1704699510-58e5fa504b5449b7a89a07130def4d77.png)添加标签
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-58e5fa504b5449b7a89a07130def4d77.png)添加标签
 
-![](1704699510-325ac912a48e528af8ab64d72cca36b5.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-325ac912a48e528af8ab64d72cca36b5.svg)
 
 发表评论，抢沙发...
 
-![](1704699510-d56c24c81b5e5f02b023f9382e1ca21d.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704699510-d56c24c81b5e5f02b023f9382e1ca21d.svg)

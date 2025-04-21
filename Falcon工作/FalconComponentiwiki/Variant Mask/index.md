@@ -17,7 +17,7 @@ _采用_ [_Variant Pass_](https://iwiki.woa.com/pages/viewpage.action?pageId=144
 
 组件会按照从上到下的顺序，为每一层根据其包含的 Variant Pass 列表计算出一个结果，并按照层的类型输出到对应地形权重或 Mask 上
 
-![](1704813382-70cf5336d813e3c751743595d65f9ff7.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-70cf5336d813e3c751743595d65f9ff7.png)
 
 *   ① 这一层的输出目标
     
@@ -42,7 +42,7 @@ _采用_ [_Variant Pass_](https://iwiki.woa.com/pages/viewpage.action?pageId=144
 
 *   **添加层**：向 Layer Data 数组添加新元素，并在出现的 Choose 下拉菜单里选择类型。层分为 Mask 层和权重层两种，代表计算结果的输出目的地  
     
-    ![](1704813382-6bfa67f1acc2373f1cfe53022ae486f1.png)
+    ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-6bfa67f1acc2373f1cfe53022ae486f1.png)
     
       
       
@@ -56,7 +56,7 @@ _采用_ [_Variant Pass_](https://iwiki.woa.com/pages/viewpage.action?pageId=144
     
 *   **改变类型（Change As...）**：改变当前层的输出目标  
     
-    ![](1704813382-5f34c90d45f1a26c88df4ee566592e9b.png)
+    ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-5f34c90d45f1a26c88df4ee566592e9b.png)
     
       
       
@@ -72,7 +72,7 @@ _采用_ [_Variant Pass_](https://iwiki.woa.com/pages/viewpage.action?pageId=144
     
 *   **预览**：单击层右边的
     
-    ![](1704813382-45ae4e4054c4e77621e013f8bc22db1e.png)
+    ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-45ae4e4054c4e77621e013f8bc22db1e.png)
     
 
 # 输出方式
@@ -81,7 +81,7 @@ _采用_ [_Variant Pass_](https://iwiki.woa.com/pages/viewpage.action?pageId=144
 
 如果在 Variant Pass 中引用了对应的 Mask 或权重，那么同一组件里靠后的层的结果可能会受到靠前层结果的影响。
 
-![](1704813382-565034eaa877e695bbb6f3dfbb76a76e.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-565034eaa877e695bbb6f3dfbb76a76e.png)
 
 ### Mask 层的混合
 
@@ -89,7 +89,7 @@ _采用_ [_Variant Pass_](https://iwiki.woa.com/pages/viewpage.action?pageId=144
 
 默认为 Replace，也就是完全使用层的结果作为最终输出结果
 
-![](1704813382-6b6485d502b06acac10f20d39353e5e7.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-6b6485d502b06acac10f20d39353e5e7.png)
 
 ### 权重层的混合
 
@@ -114,7 +114,7 @@ _采用_ [_Variant Pass_](https://iwiki.woa.com/pages/viewpage.action?pageId=144
 
 可以使用预览功能在视口中的地形上预览结果，预览由**目标**和**阶段**两部分配置而成
 
-![](1704813382-234530ba8193a86fa287425f2fd3773e.png)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-234530ba8193a86fa287425f2fd3773e.png)
 
 预览目标
 
@@ -122,7 +122,7 @@ _采用_ [_Variant Pass_](https://iwiki.woa.com/pages/viewpage.action?pageId=144
     
 *   **对指定层的预览**：单击层右边的
     
-    ![](1704813382-45ae4e4054c4e77621e013f8bc22db1e.png)
+    ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-45ae4e4054c4e77621e013f8bc22db1e.png)
     
     进入
 
@@ -172,11 +172,11 @@ _采用_ [_Variant Pass_](https://iwiki.woa.com/pages/viewpage.action?pageId=144
 
 再在 Falcon 设置里检查下面的的参数：
 
-*   ![](1704813382-3b30426d4417b871f692bf260c41f0b8.png)
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-3b30426d4417b871f692bf260c41f0b8.png)
     
-*   ![](1704813382-f9c4559c9216ade46fdfb4e3dbebadee.png)
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-f9c4559c9216ade46fdfb4e3dbebadee.png)
     
-*   ![](1704813382-d7e35e22c19fc504da686940e310c4e3.png)
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-d7e35e22c19fc504da686940e310c4e3.png)
     
     ，如果项目使用了 Indexed Map 就打开，否则关闭
 
@@ -199,17 +199,17 @@ Breakout 地形权重处理逻辑汇总
 
 Breakout 植被撒点效果生成逻辑汇总
 
-*   ![](1704813382-48f34ae457aeafc603ab0a403f103594.svg)529
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-48f34ae457aeafc603ab0a403f103594.svg)529
     
-*   ![](1704813382-0b95f0082c86623bb3ccf41eddc04c8b.png)61
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-0b95f0082c86623bb3ccf41eddc04c8b.png)61
     
-*   ![](1704813382-fd7976f7b401fb858c859dda738b7af1.png)0
+*   ![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-fd7976f7b401fb858c859dda738b7af1.png)0
     
 
-![](1704813382-58e5fa504b5449b7a89a07130def4d77.png)添加标签
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-58e5fa504b5449b7a89a07130def4d77.png)添加标签
 
-![](1704813382-325ac912a48e528af8ab64d72cca36b5.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-325ac912a48e528af8ab64d72cca36b5.svg)
 
 发表评论，抢沙发...
 
-![](1704813382-d56c24c81b5e5f02b023f9382e1ca21d.svg)
+![](https://raw.githubusercontent.com/wanlilu/imgBed/main/1704813382-d56c24c81b5e5f02b023f9382e1ca21d.svg)
